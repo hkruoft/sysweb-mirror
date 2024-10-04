@@ -1,11 +1,0 @@
---2024-10-03 14:21:40--  https://images.unsplash.com/photo-1518770660439-4636190af475?q=80
-Resolving images.unsplash.com (images.unsplash.com)... 151.101.126.208, 2a04:4e42:1e::720
-Connecting to images.unsplash.com (images.unsplash.com)|151.101.126.208|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 4241552 (4.0M) [image/jpeg]
-Saving to: ‘photo-1518770660439-4636190af475?q=80’
-
-photo-1518770660439-4636190af475?q=80      0%[                                                                                 ]       0  --.-KB/s               photo-1518770660439-4636190af475?q=80    100%[================================================================================>]   4.04M  --.-KB/s    in 0.04s   
-
-2024-10-03 14:21:41 (108 MB/s) - ‘photo-1518770660439-4636190af475?q=80’ saved [4241552/4241552]
-
