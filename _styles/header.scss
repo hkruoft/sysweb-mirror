@@ -62,8 +62,8 @@ header a {
 }
 
 .subtitle {
-  opacity: 0.65;
-  font-weight: var(--thin);
+  opacity: 0.85;
+  font-weight: var(--regular);
 }
 
 .nav-toggle {
@@ -157,10 +157,11 @@ header[data-big] {
   }
 
   .title {
-    font-size: var(--xxl);
+    font-size: 35px;
   }
 
   .subtitle {
-    font-size: var(--large);
+    font-size: var(--xl);
+
   }
 }

@@ -1,30 +1,26 @@
 ---
 ---
+The **<u>Sys</u>**tems & **<u>Net</u>**works Group (**SysNet**) is part of the <a href="https://www.cs.toronto.edu/">Department of Computer Science</a>  at the <a href="https://utoronto.ca/">University of Toronto</a>. We work on projects that cover a diverse range of experimental and theoretical research, including operating systems, network security, mobile code architectures, high-performance computing and wireless networking.
 
-# Lab Website Template
+ 
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+The systems side works on a range of experimental projects on Internet systems and services. Our interests span Web-based and peer-to-peer systems design, network measurement and traffic analysis, fault-tolerant Internet systems, wireless networking, and network security. Our mission is to investigate high-impact research avenues that will shape the next generation Internet systems and services.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+ 
 
-{% include section.html %}
+The networks side engages in both theoretical and experimental research: while we use modeling and analytical techniques to study fundamental problems in computer networks, we also conduct experimental studies and build real systems. Our research covers a broad range of topics including online social networks, wireless networks, peer-to-peer networks, sizing buffers in Internet routers and content delivery networks.
+
+ 
+
+As an energetic research group, we have regular group meetings to discuss our current work and results. We also organize talks, research seminars and reading groups to facilitate cross-disciplinary discussion on topics of mutual interest.
+
+​
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A great way to learn about our work is to see what we've published. Browse or search our full list of publications here.
 
 {%
   include button.html
@@ -39,40 +35,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
+  image="images/servers.jpg"
+  link="team"
   title="Our Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is made up of faculty, postdoctoral researchers, graduate students, research assistants and staff.
 
 {%
   include button.html
@@ -87,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bahen3.jpg"
   link="team"
   title="Our Team"
   text=text

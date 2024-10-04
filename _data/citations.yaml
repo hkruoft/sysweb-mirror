@@ -190,7 +190,6 @@
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -218,30 +217,608 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: arXiv:2404.05470v1
+  title: Towards Reconfigurable Linearizable Reads
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Myles Thiessen
+  - Aleksey Panas
+  - Guy Khazma
+  - Eyal de Lara
+  publisher: arXiv
+  date: '2024-04-08'
+  link: https://arxiv.org/abs/2404.05470v1
+  tags:
+  - delara
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1145/3642968.3654822
+  title: 'PathFS: A File System for the Hierarchical Edge'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Vinicius Dantas de Lima Melo
+  - Myles Thiessen
+  - Aleksey Panas
+  - Alexandre da Silva Veith
+  - Keijiro Yano
+  - Oana Balmau
+  - Eyal de Lara
+  publisher: Proceedings of the 7th International Workshop on Edge Systems, Analytics
+    and Networking
+  date: '2024-04-22'
+  link: https://doi.org/g6vqjn
+  tags:
+  - delara
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12911-024-02461-y
+  title: 'Feasibility of a wearable self-management application for patients with
+    COPD at home: a pilot study'
+  authors:
+  - Robert Wu
+  - Eyal de Lara
+  - Daniyal Liaqat
+  - Salaar Liaqat
+  - Jun Lin Chen
+  - Tanya Son
+  - Andrea S. Gershon
+  publisher: BMC Medical Informatics and Decision Making
+  date: '2024-03-05'
+  link: https://doi.org/g6vswz
+  tags:
+  - delara
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3638550.3641135
+  title: Towards Multi-Stakeholder Clouds
+  authors:
+  - Bohdan Borysei
+  - Stefan Saroiu
+  - Eyal de Lara
+  publisher: Proceedings of the 25th International Workshop on Mobile Computing Systems
+    and Applications
+  date: '2024-02-28'
+  link: https://doi.org/g6vvff
+  tags:
+  - delara
+  buttons:
+  - type: slide
+    text: Slides
+    link: slides/mcloud_presentation.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.comcom.2024.01.002
+  title: 'Enhancing modular application placement in a hierarchical fog computing:
+    A latency and communication cost-sensitive approach'
+  authors:
+  - Leonan T. Oliveira
+  - Luiz F. Bittencourt
+  - Thiago A.L. Genez
+  - Eyal de Lara
+  - Maycon L.M. Peixoto
+  publisher: Computer Communications
+  date: '2024-02-01'
+  link: https://doi.org/g6vs9j
+  tags:
+  - delara
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3610889
+  title: PulmoListener
+  authors:
+  - Sejal Bhalla
+  - Salaar Liaqat
+  - Robert Wu
+  - Andrea S. Gershon
+  - Eyal de Lara
+  - Alex Mariakakis
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2023-09-27'
+  link: https://doi.org/g6vwsd
+  tags:
+  - delara
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICPADS60453.2023.00330
+  title: 'PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs'
+  authors:
+  - Maryam Ebrahimi
+  - Alexandre da Silva Veith
+  - Moshe Gabel
+  - Eyal de Lara
+  publisher: 2023 IEEE 29th International Conference on Parallel and Distributed Systems
+    (ICPADS)
+  date: '2023-12-17'
+  link: https://doi.org/g6vw8t
+  tags:
+  - delara
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3614214.3614218
+  title: Data Management Systems for the Hierarchical Edge
+  authors:
+  - Seyed Hossein Mortazavi
+  - Mohammad Salehe
+  - Moshe Gabel
+  - Eyal de Lara
+  publisher: 'GetMobile: Mobile Computing and Communications'
+  date: '2023-08-03'
+  link: https://doi.org/g6vw8x
+  tags:
+  - delara
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISCA59077.2024.00087
+  title: 'PrIDE: Achieving Secure Rowhammer Mitigation with Low-Cost In-DRAM Trackers'
+  authors:
+  - Aamer Jaleel
+  - Gururaj Saileshwar
+  - Stephen W. Keckler
+  - Moinuddin Qureshi
+  publisher: 2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture
+    (ISCA)
+  date: '2024-06-29'
+  link: https://doi.org/g6vxk7
+  tags: gururaj
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/gururaj-s/PrIDE
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/DSN58367.2023.00022
+  title: 'PT-Guard: Integrity-Protected Page Tables to Defend Against Breakthrough
+    Rowhammer Attacks'
+  authors:
+  - Anish Saxena
+  - Gururaj Saileshwar
+  - Jonas Juffinger
+  - Andreas Kogler
+  - Daniel Gruss
+  - Moinuddin Qureshi
+  publisher: 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems
+    and Networks (DSN)
+  date: '2023-06-01'
+  link: https://doi.org/g6v2sc
+  tags: gururaj
+  buttons:
+  - type: slide
+    text: Slides
+    link: https://gururaj-s.github.io/assets/slides/DSN23_Saxena_slides.pptx
+  - type: pdf
+    text: PDF
+    link: https://gururaj-s.github.io/assets/pdf/DSN23_Saxena.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SP46215.2023.10179297
+  title: Practical Timing Side-Channel Attacks on Memory Compression
+  authors:
+  - Martin Schwarzl
+  - Pietro Borrello
+  - Gururaj Saileshwar
+  - "Hanna M\xFCller"
+  - Michael Schwarz
+  - Daniel Gruss
+  publisher: 2023 IEEE Symposium on Security and Privacy (SP)
+  date: '2023-05-01'
+  link: https://doi.org/g6v3vv
+  tags: gururaj
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/IAIK/Memory-Compression-Attacks
+  - type: pdf
+    link: https://gururaj-s.github.io/assets/pdf/SP23_Schwarzl.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SP46215.2023.10179368
+  title: 'SQUIP: Exploiting the Scheduler Queue Contention Side Channel'
+  authors:
+  - Stefan Gast
+  - Jonas Juffinger
+  - Martin Schwarzl
+  - Gururaj Saileshwar
+  - Andreas Kogler
+  - Simone Franza
+  - "Markus K\xF6stl"
+  - Daniel Gruss
+  publisher: 2023 IEEE Symposium on Security and Privacy (SP)
+  date: '2023-05-01'
+  link: https://doi.org/g6v37v
+  tags: gururaj
+  buttons:
+  - type: slide
+    link: https://gururaj-s.github.io/assets/slides/SP23_Gast_slides.pdf
+  - type: pdf
+    link: https://gururaj-s.github.io/assets/pdf/SP23_Gast.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCA56546.2023.10070999
+  title: 'Scalable and Secure Row-Swap: Efficient and Safe Row Hammer Mitigation in
+    Memory Systems'
+  authors:
+  - Jeonghyun Woo
+  - Gururaj Saileshwar
+  - Prashant J. Nair
+  publisher: 2023 IEEE International Symposium on High-Performance Computer Architecture
+    (HPCA)
+  date: '2023-02-01'
+  link: https://doi.org/g6v4f6
+  tags: gururaj
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/star-laboratory/scale-srs
+  - type: slide
+    link: https://gururaj-s.github.io/assets/slides/woo2023rowswap_slides.ppsx
+  - type: pdf
+    link: https://gururaj-s.github.io/assets/pdf/HPCA23_Woo.pdf
+  description: "<span style='color:#b523cf;'><b>HPCA\u201923 Best Paper Award</b></span>"
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MICRO56248.2022.00022
+  title: 'AQUA: Scalable Rowhammer Mitigation by Quarantining Aggressor Rows at Runtime'
+  authors:
+  - Anish Saxena
+  - Gururaj Saileshwar
+  - Prashant J. Nair
+  - Moinuddin Qureshi
+  publisher: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  date: '2022-10-01'
+  link: https://doi.org/g6v5xt
+  tags: gururaj
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/Anish-Saxena/aqua_rowhammer_mitigation
+  - type: slide
+    link: https://gururaj-s.github.io/assets/slides/MICRO22_AQUA_slides.pptx
+  - type: pdf
+    link: https://gururaj-s.github.io/assets/pdf/MICRO22_Saxena.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2408.09702
+  title: Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering
+  authors:
+  - Ruofan Liang
+  - Zan Gojcic
+  - Merlin Nimier-David
+  - David Acuna
+  - Nandita Vijaykumar
+  - Sanja Fidler
+  - Zian Wang
+  publisher: arXiv
+  date: '2024-08-19'
+  link: https://doi.org/g6v8zw
+  tags: nandita
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISPASS61541.2024.00044
+  title: 'Distributed Training of Neural Radiance Fields: A Performance Characterization'
+  authors:
+  - Adrian Zhao
+  - Louis Zhang
+  - Sankeerth Durvasula
+  - Fan Chen
+  - Nilesh Jain
+  - Selvakumar Panneer
+  - Nandita Vijaykumar
+  publisher: 2024 IEEE International Symposium on Performance Analysis of Systems
+    and Software (ISPASS)
+  date: '2024-05-05'
+  link: https://doi.org/g6v886
+  tags: nandita
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2408.05625
+  title: 'Memento Filter: A Fast, Dynamic, and Robust Range Filter'
+  authors:
+  - Navid Eslami
+  - Niv Dayan
+  publisher: arXiv
+  date: '2024-08-14'
+  link: https://arxiv.org/abs/2408.05625
+  tags: nivdayan
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3663351.3663880
+  title: 'Wayfinder: Speeding up Key-Value Separation by Avoiding I/O Based Indirection'
+  authors:
+  - Guy Khazma
+  - Myles Thiessen
+  - Eyal de Lara
+  - Niv Dayan
+  publisher: Proceedings of the 2nd Workshop on Simplicity in Management of Data
+  date: '2024-06-14'
+  link: https://doi.org/g63cbp
+  tags: nivdayan
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3626246.3654681
+  title: 'Beyond Bloom: A Tutorial on Future Feature-Rich Filters'
+  authors:
+  - Prashant Pandey
+  - "Mart\xEDn Farach-Colton"
+  - Niv Dayan
+  - Huanchen Zhang
+  publisher: Companion of the 2024 International Conference on Management of Data
+  date: '2024-06-09'
+  link: https://doi.org/g63ccw
+  tags: nivdayan
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2404.04703
+  title: 'Aleph Filter: To Infinity in Constant Time'
+  authors:
+  - Niv Dayan
+  - Ioana-Oriana Bercea
+  - Rasmus Pagh
+  publisher: arXiv
+  date: '2024-08-22'
+  link: https://arxiv.org/abs/2404.04703
+  tags: nivdayan
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2404.12512
+  title: 'Proteus: Preserving Model Confidentiality during Graph Optimizations'
+  authors:
+  - Yubo Gao
+  - Maryam Haghifam
+  - Christina Giannoula
+  - Renbo Tu
+  - Gennady Pekhimenko
+  - Nandita Vijaykumar
+  publisher: arXiv
+  date: '2024-04-22'
+  link: https://arxiv.org/abs/2404.12512
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.86491
+  title: "Tracking subjects\u2019 strategies in behavioural choice experiments at\
+    \ trial resolution"
+  authors:
+  - Silvia Maggi
+  - Rebecca M Hock
+  - Martin O'Neill
+  - Mark Buckley
+  - Paula M Moran
+  - Tobias Bast
+  - Musa Sami
+  - Mark D Humphries
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: '2024-03-01'
+  link: https://doi.org/gtpkdp
+  tags:
+  - Bayesian
+  - behaviour
+  buttons:
+  - type: package
+    text: MATLAB toolbox
+    link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
+  - type: package
+    text: Python toolbox
+    link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python
+  - type: data
+    text: Y-maze data
+    link: http://dx.doi.org/10.6080/K0KH0KH5
+  - type: data
+    text: Other task data
+    link: http://doi.org/10.17639/nott.7274
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/JNEUROSCI.1412-21.2022
+  title: Activity Subspaces in Medial Prefrontal Cortex Distinguish States of the
+    World
+  authors:
+  - Silvia Maggi
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2022-04-14'
+  link: https://doi.org/gt66t9
+  tags:
+  - prefrontal-cortex
+  - latent-dynamics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/jneurosci.1487-21.2021
+  title: Bayesian Mapping of the Striatal Microcircuit Reveals Robust Asymmetries
+    in the Probabilities and Distances of Connections
+  authors:
+  - "Fran\xE7ois Cinotti"
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2021-12-10'
+  link: https://doi.org/gt66vb
+  tags:
+  - basal-ganglia
+  - Bayesian
+  buttons:
+  - type: source
+    text: Code
+    link: https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0254057
+  title: Spectral estimation for detecting low-dimensional structure in networks using
+    arbitrary null models
+  authors:
+  - Mark D. Humphries
+  - Javier A. Caballero
+  - Mat Evans
+  - Silvia Maggi
+  - Abhinav Singh
+  publisher: PLOS ONE
+  date: '2021-07-02'
+  link: https://doi.org/gng4z8
+  tags:
+  - network-theory
+  buttons:
+  - type: package
+    text: Code toolbox
+    link: https://github.com/mdhumphries/NetworkNoiseRejection
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.51628/001c.24619
+  title: Strong and weak principles of neural dimension reduction
+  authors:
+  - Mark D Humphries
+  publisher: Neurons, Behavior, Data analysis, and Theory
+  date: '2021-06-17'
+  link: https://doi.org/gt66vd
+  tags:
+  - latent-dynamics
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:9780691195889
+  title: 'The spike: an epic journey through the brain in 2.1 seconds'
+  authors:
+  - Mark Humphries
+  publisher: Princeton University Press
+  date: '2021-01-01'
+  link: ''
+  tags:
+  - latent-dynamics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/jneurosci.1370-17.2019
+  title: Medial prefrontal cortex population activity is plastic irrespective of learning
+  authors:
+  - Abhinav Singh
+  - Adrien Peyrache
+  - Mark D. Humphries
+  publisher: The Journal of Neuroscience
+  date: '2019-02-27'
+  link: https://doi.org/gf82mq
+  tags:
+  - prefrontal cortex
+  buttons:
+  - type: source
+    text: Code for paper
+    link: https://github.com/mdhumphries/PfCDictionary
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-04638-2
+  title: An ensemble code in medial prefrontal cortex links prior events to outcomes
+    during learning
+  authors:
+  - Silvia Maggi
+  - Adrien Peyrache
+  - Mark D. Humphries
+  publisher: Nature Communications
+  date: '2018-06-07'
+  link: https://doi.org/gdqzgc
+  tags:
+  - prefrontal cortex
+  buttons:
+  - type: source
+    text: Code for paper
+    link: https://github.com/sibangi/PFCensemble_ITI
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.27342
+  title: A spiral attractor network drives rhythmic locomotion
+  authors:
+  - Angela M Bruno
+  - William N Frost
+  - Mark D Humphries
+  publisher: eLife
+  date: '2017-08-07'
+  link: https://doi.org/gsvdtf
+  tags:
+  - Aplysia
+  - latent-dynamics
+  buttons:
+  - type: source
+    text: Code for paper
+    link: https://github.com/mdhumphries/AplysiaAttractorAnalysis
+  - type: data
+    text: Data
+    link: http://dx.doi.org/10.6080/K0SN074B
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuron.2015.03.005
+  title: Modular Deconstruction Reveals the Dynamical and Physical Building Blocks
+    of a Locomotion Motor Program
+  authors:
+  - "Angela\_M. Bruno"
+  - "William\_N. Frost"
+  - "Mark\_D. Humphries"
+  publisher: Neuron
+  date: '2015-04-01'
+  link: https://doi.org/f676qp
+  tags:
+  - Aplysia
+  - latent-dynamics
+  buttons:
+  - type: source
+    text: Code for paper
+    link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.pneurobio.2012.09.004
+  title: Population-wide distributions of neural activity during perceptual decision-making
+  authors:
+  - Adrien Wohrer
+  - Mark D. Humphries
+  - Christian K. Machens
+  publisher: Progress in Neurobiology
+  date: '2013-04-01'
+  link: https://doi.org/f4sbkw
+  tags:
+  - latent-dynamics
+  buttons:
+  - type: paper
+    text: Download paper
+    link: research/Wohrer2013.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:22347155
+  title: Dopaminergic Control of the Exploration-Exploitation Trade-Off via the Basal
+    Ganglia.
+  authors:
+  - Mark D Humphries
+  - Mehdi Khamassi
+  - Kevin Gurney
+  publisher: Frontiers in neuroscience
+  date: '2012-02-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22347155
+  tags:
+  - dopamine
+  - basal-ganglia
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1017/CBO9780511731525.018
+  title: 'The medial reticular formation: a brainstem substrate for simple action
+    selection?'
+  authors:
+  - Mark D. Humphries
+  - Kevin N. Gurney
+  - Tony J Prescott
+  publisher: Modelling Natural Action Selection
+  date: '2011-11-10'
+  link: https://doi.org/bwkjjp
+  tags:
+  - reticular-formation
+  - action-selection
+  buttons:
+  - type: paper
+    text: Download paper
+    link: research/Humphries2011a.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pone.0002051
+  title: "Network \u2018Small-World-Ness\u2019: A Quantitative Method for Determining\
+    \ Canonical Network Equivalence"
+  authors:
+  - Mark D. Humphries
+  - Kevin Gurney
+  publisher: PLoS ONE
+  date: '2008-04-30'
+  link: https://doi.org/b4hv6r
+  tags:
+  - network-theory
+  buttons:
+  - type: package
+    text: Code toolbox
+    link: https://github.com/mdhumphries/SmallWorldNess
   plugin: sources.py
   file: sources.yaml

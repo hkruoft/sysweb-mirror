@@ -2,17 +2,30 @@
 
 # team member roles
 
-pi:
-  icon: fa-solid fa-microscope
-  description: Principal Investigator
+faculty:
+  description: Faculty
 
+fellow:
+  icon: fa-solid fa-glasses
+  description: Research Fellow
+  
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+alum-phd:
   icon: fa-solid fa-graduation-cap
+  description: PhD Alum
+
+alum-masters:
+  icon: fa-solid fa-graduation-cap
+  description: MSc Alum
+
+phd:
   description: PhD Student
+
+masters:
+  description: MSc Student 
 
 undergrad:
   icon: fa-solid fa-user-graduate
@@ -72,6 +85,12 @@ search:
 
 # social media
 
+dblp:
+  icon: dblp.svg
+  text: DBLP
+  link: https://dblp.org/pers/hd/v/$VALUE
+  tooltip: DBLP
+
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID
@@ -91,10 +110,16 @@ github:
   link: https://github.com/$VALUE
 
 twitter:
-  icon: fa-brands fa-twitter
+  icon: fa-brands fa-x-twitter
   text: Twitter
   tooltip: Twitter
   link: https://twitter.com/$VALUE
+
+bluesky:
+  icon: fa-brands fa-bluesky
+  text: Bluesky
+  tooltip: Bluesky
+  link: https://bsky.app/profile/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook
@@ -152,6 +177,16 @@ paper:
   icon: fa-solid fa-scroll
   text: Paper
   tooltip: Paper
+
+pdf:
+  icon: fa-solid fa-file-lines
+  text: PDF
+  tooltip: PDF
+
+slide:
+  icon: fa-solid fa-display
+  text: Slides
+  tooltil: Slides
 
 book:
   icon: fa-solid fa-book

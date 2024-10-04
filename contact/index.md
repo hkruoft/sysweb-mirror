@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="sysnetcontact@cs.toronto.edu"
+  link="sysnetcontact@cs.toronto.edu"
 %}
 {%
   include button.html
@@ -27,51 +27,32 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps?f=q&hl=en&geocode&q=40+St+George+St,+Toronto,+ON&sll=43.659988,-79.396748&sspn=0.006753,0.012821&ie=UTF8&ll=43.664457,-79.395103&spn=0.012418,0.042915&z=14&source=embed"
 %}
 
 {% include section.html %}
-
 {% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
+{% include figure.html image="images/bahen.jpg" caption="Bahen Centre for Information Technology" width="500px" %}
 {% endcapture %}
 
+
 {% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
+{% include figure.html image="images/bahen-atrium.png" caption="Bahen Centre Atrium" width="500px" %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
+
+
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
