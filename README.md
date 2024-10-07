@@ -1,5 +1,5 @@
 
 #
 
-Visit **[hkruoft.github.io/uoft-sysnet.github.io](https://hkruoft.github.io/uoft-sysnet.github.io)** 🚀
+Visit **[hkruoft.github.io/uoft-sysnet](https://hkruoft.github.io/uoft-sysnet)** 🚀
 
