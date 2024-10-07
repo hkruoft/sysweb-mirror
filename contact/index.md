@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is part of the [Dept. of Computer Science](https://web.cs.toronto.edu/) in [University of Toronto](https://utoronto.ca) located at the Bahen Centre for Information Technology, 40 St. George St. in Toronto, Ontario.
 
 {%
   include button.html
