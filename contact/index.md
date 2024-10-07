@@ -17,12 +17,6 @@ Our group is part of the [Dept. of Computer Science](https://web.cs.toronto.edu/
 %}
 {%
   include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps?f=q&hl=en&geocode&q=40+St+George+St,+Toronto,+ON&sll=43.659988,-79.396748&sspn=0.006753,0.012821&ie=UTF8&ll=43.664457,-79.395103&spn=0.012418,0.042915&z=14&source=embed"
