@@ -17,6 +17,7 @@
   title: "PathFS: A File System for the Hierarchical Edge"
   tags:
     - delara
+    - cloudpath
 
 # Feasibility of a wearable self-management application for patients with COPD at home
 - id: doi:10.1186/s12911-024-02461-y
@@ -54,6 +55,7 @@
 - id: doi:10.1145/3614214.3614218
   tags:
     - delara
+    - cloudpath
 
 ### Gururaj Saileshwar
 

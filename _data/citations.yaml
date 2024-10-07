@@ -247,6 +247,7 @@
   link: https://doi.org/g6vqjn
   tags:
   - delara
+  - cloudpath
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12911-024-02461-y
@@ -345,6 +346,7 @@
   link: https://doi.org/g6vw8x
   tags:
   - delara
+  - cloudpath
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISCA59077.2024.00087

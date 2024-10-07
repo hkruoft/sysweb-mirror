@@ -9,8 +9,10 @@ fellow:
   icon: fa-solid fa-glasses
   description: Research Fellow
   
+research-associate:
+  description: Research Associate
+
 postdoc:
-  icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
 alum-phd:

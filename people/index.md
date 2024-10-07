@@ -5,9 +5,8 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-people-group" %}People
+# {% include icon.html icon="fa-solid fa-people-group" %}
 
-{% include section.html %}
 
 # Faculty 
 {% include list.html data="members" component="faculty" filters="role: faculty" %}
@@ -16,9 +15,9 @@ nav:
 {% include list.html data="members" component="faculty" filters="role: future" %}
 {% include section.html %}
 
-# Postdoc
 
-{% include list.html data="members" component="faculty" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: research-associate" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
 
 {% include section.html %}
 # Graduate Students

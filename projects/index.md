@@ -1,16 +1,13 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 3
   tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
+The computer systems and networks group engages in a wide range of experimental and theoretical research. Our current projects span operating systems, network measurement and traffic analysis, peer-to-peer system design, network security, mobile code architectures, high-performance cluster computing, wireless networking and much more. The research projects are supported by research funds from government and industrial sources.
 
 {% include search-info.html %}
 
