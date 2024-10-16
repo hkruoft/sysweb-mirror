@@ -1,0 +1,9 @@
+@InProceedings{,
+author = "Alexey Khrabrov and Marius Pirvu and Vijay Sundaresan and Eyal de Lara",
+title = "JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended Abstract)",
+booktitle = "3rd Workshop on Resource Disaggregation and Serverless (WORDS'22)",
+address = "San Diego, CA",
+month = "November",
+year = "2022",
+pages = "",
+}
