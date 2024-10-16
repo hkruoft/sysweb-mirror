@@ -341,7 +341,7 @@
   - cloudpath
   plugin: sources.py
   file: sources.yaml
-- id: isbn:978-1-939133-29-8
+- id: isbn:9781939133298
   date: '2022-07-11'
   title: 'JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended
     Abstract)'
