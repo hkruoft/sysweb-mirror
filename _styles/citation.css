@@ -64,12 +64,6 @@
   margin: 0;
 }
 
-.citation-text > .tags {
-  display: inline-flex;
-  justify-content: flex-start;
-  margin: 0;
-}
-
 @container (max-width: 800px) {
   .citation {
     flex-direction: column;
