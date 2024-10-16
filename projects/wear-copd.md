@@ -1,5 +1,7 @@
 ---
 title: "WearCOPD: Remote COPD Patient Monitoring"
+group: featured
+
 ---
 
 # {% include icon.html icon="fa-solid fa-scroll" %} {{ page.title }}
@@ -27,55 +29,42 @@ Chronic obstructive pulmonary disease (COPD) is a prevalent and disabling chroni
 
 
 ## Sponsors
-<div align="left" id="banner">
-    <div class="inline-block">
-    <a href="http://sunnybrook.ca/">
-         <img src ="images/logo-sb-hsc.png" height="100px">
-    </a>
-    </div>
-    <div class="inline-block">
-    <a href="http://agewell-nce.ca/">
-        <img src ="images/age-well_logo.png" height="100px">
-    </a> 
-    </div>
-    <div class="inline-block">
-    <a href="http://www.nserc.ca/">
-        <img src ="images/nserc.jpg" height="100px">
-    </a>
-    </div>
-    <div class="inline-block">
-    <a href="http://http//www.cihr-irsc.gc.ca/e/193.html">
-        <img src ="images/leaf-cihr-colour-portrait-en.jpg" height="100px">
-    </a>
-    </div>
-</div>
+
+[![image]({{ "/images/logo-sb-hsc.png" | relative_url }}){:width="250px"}](https://sunnybrook.ca)
+[![image]({{ "/images/age-well_logo.png" | relative_url }}){:width="250px"}](https://agewell-nce.ca/)
+
+[![image]({{ "/images/nserc.jpg" | relative_url }}){:width="250px"}](https://www.nserc-crsng.gc.ca/)
+[![image]({{ "/images/leaf-cihr-colour-portrait-en.jpg" | relative_url }}){:width="250px"}](http://www.cihr-irsc.gc.ca/e/193.html)
 
 
 ## Publications
 
-{% assign filtered_citations = site.data.citations | where: "tags", "INSERT-TAG" %}
+{% assign filtered_citations = site.data.citations | where: "tags", "wearcopd" %}
 
 {% if filtered_citations.size > 0 %}
-  {% assign citations_with_dates = filtered_citations | map: "date" | uniq %}
-
   {% assign data = filtered_citations %}
   {% assign years = data | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" | reverse %}
 
   {% for year in years %}
-    {% assign data = year.items %}
+    {% assign year_data = year.items %}
 
-    {% for d in data %}
-      {% include citation.html
-        id=d.id
-        title=d.title
-        authors=d.authors
-        publisher=d.publisher
-        date=d.date
-        link=d.link
-        tags=d.tags
+
+    {% for d in year_data %}
+      {% assign style = d.style | default: "rich" %}
+
+      {% include citation.html 
+        id=d.id 
+        title=d.title 
+        authors=d.authors 
+        publisher=d.publisher 
+        date=d.date 
+        link=d.link 
+        style=style 
+        buttons=d.buttons 
       %}
     {% endfor %}
   {% endfor %}
 {% else %}
   <p>No publications found for this project.</p>
 {% endif %}
+

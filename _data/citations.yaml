@@ -262,7 +262,8 @@
   publisher: BMC Medical Informatics and Decision Making
   date: '2024-03-05'
   link: https://doi.org/g6vswz
-  tags: null
+  tags:
+  - wearcopd
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3638550.3641135
@@ -311,7 +312,13 @@
     Technologies
   date: '2023-09-27'
   link: https://doi.org/g6vwsd
-  tags: null
+  buttons:
+  - type: pdf
+    link: research/ubicomp2023.pdf
+  - type: bibtex
+    link: bibtex/pulmolistener.txt
+  tags:
+  - wearcopd
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICPADS60453.2023.00330

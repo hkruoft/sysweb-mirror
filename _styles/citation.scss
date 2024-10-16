@@ -70,11 +70,13 @@ $wrap: 800px;
   margin: 0;
 }
 
-.citation-text > .tags {
-  display: inline-flex;
-  justify-content: flex-start;
-  margin: 0;
-}
+//
+//.citation-text > .tags {
+//  display: inline-flex;
+//  justify-content: flex-start;
+//  margin: 0;
+//}
+//
 
 @container (max-width: #{$wrap}) {
   .citation {

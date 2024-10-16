@@ -20,6 +20,7 @@
 # Feasibility of a wearable self-management application for patients with COPD at home
 - id: doi:10.1186/s12911-024-02461-y
   tags:
+    - wearcopd
 
 # Towards Multi-Stakeholder Clouds
 - id: doi:10.1145/3638550.3641135
@@ -39,7 +40,13 @@
 # PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild
 - id: doi:10.1145/3610889
   title: "PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild"
+  buttons:
+    - type: pdf
+      link: research/ubicomp2023.pdf
+    - type: bibtex
+      link: bibtex/pulmolistener.txt
   tags:
+    - wearcopd
 
 # PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs
 - id: doi:10.1109/ICPADS60453.2023.00330

@@ -21,40 +21,37 @@ Path computing is a new paradigm that generalizes the edge computing vision into
 - Abhishek Tiwari
  
 ## Sponsors
-<div align="left" id="banner">
-    <div class="inline-block">
-        <img src ="/images/nserc.jpg" height="100px">
-    </div>
-</div>
+
+[![image]({{ "/images/nserc.jpg" | relative_url }}){:width="250px"}](https://www.nserc-crsng.gc.ca/)
 
 ## Publications
-
-Below are all the publications tied to CloudPath.
-
 
 {% assign filtered_citations = site.data.citations | where: "tags", "cloudpath" %}
 
 {% if filtered_citations.size > 0 %}
-  {% assign citations_with_dates = filtered_citations | map: "date" | uniq %}
-
   {% assign data = filtered_citations %}
   {% assign years = data | group_by_exp: "d", "d.date | date: '%Y'" | sort: "name" | reverse %}
 
   {% for year in years %}
-    {% assign data = year.items %}
+    {% assign year_data = year.items %}
 
-    {% for d in data %}
-      {% include citation.html
-        id=d.id
-        title=d.title
-        authors=d.authors
-        publisher=d.publisher
-        date=d.date
-        link=d.link
-        tags=d.tags
+
+    {% for d in year_data %}
+      {% assign style = d.style | default: "rich" %}
+
+      {% include citation.html 
+        id=d.id 
+        title=d.title 
+        authors=d.authors 
+        publisher=d.publisher 
+        date=d.date 
+        link=d.link 
+        style=style 
+        buttons=d.buttons 
       %}
     {% endfor %}
   {% endfor %}
 {% else %}
-  <p>No publications found with the tag "cloudpath".</p>
+  <p>No publications found for this project.</p>
 {% endif %}
+

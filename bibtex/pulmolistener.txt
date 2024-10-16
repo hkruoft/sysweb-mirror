@@ -1,0 +1,9 @@
+@InProceedings{,
+author = "Sejal Bhalla and Salaar Liaqat and Robert Wu and Andrea Gershon and Eyal de Lara and Alex Mariakakis",
+title = " PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild",
+booktitle = "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+address = "Cancun, Mexico",
+month = "October",
+year = "2023",
+pages = "",
+}
