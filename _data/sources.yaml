@@ -28,7 +28,7 @@
   buttons:
     - type: slide
       text: Slides
-      link: research/mcloud_presentation.pdf 
+      link: pub/mcloud_presentation.pdf 
 
 # Enhancing modular application placement
 - id: doi:10.1016/j.comcom.2024.01.002
@@ -42,7 +42,7 @@
   title: "PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild"
   buttons:
     - type: pdf
-      link: research/ubicomp2023.pdf
+      link: pub/ubicomp2023.pdf
     - type: bibtex
       link: bibtex/pulmolistener.txt
   tags:
@@ -303,7 +303,7 @@
   buttons:
     - type: paper
       text: Download paper
-      link: research/Wohrer2013.pdf
+      link: pub/Wohrer2013.pdf
 
 # DA exploit-explore via BG
 - id: pmid:22347155
@@ -319,7 +319,7 @@
   buttons:
     - type: paper
       text: Download paper
-      link: research/Humphries2011a.pdf
+      link: pub/Humphries2011a.pdf
 
 # PLoS One small-world-ness
 - id: doi:10.1371/journal.pone.0002051
