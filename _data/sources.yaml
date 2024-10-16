@@ -38,6 +38,7 @@
 
 # PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild
 - id: doi:10.1145/3610889
+  title: "PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild"
   tags:
 
 # PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs
