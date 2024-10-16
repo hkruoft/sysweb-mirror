@@ -12,14 +12,13 @@ Chronic obstructive pulmonary disease (COPD) is a prevalent and disabling chroni
 ## Team
 
 - [Hisham Alshaer](http://www.uhnresearch.ca/researchers/profile.php?lookup=57524)
-- [Fanny Chevalier](https://www.cs.toronto.edu/~fchevali/fannydotnet/index.html)
+- [Fanny Chevalier](https://www.cs.toronto.edu/~fchevali/)
 - [Eyal de Lara](http://www.cs.toronto.edu/~delara)
 - [Andrea Gershon](http://sunnybrook.ca/research/team/member.asp?t=11&page=172&m=418)
 - [Alex Mariakakis](https://mariakakis.github.io/)
 - [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
 - Tatiana Son
 - [Robert Wu](http://www.uhnresearch.ca/researcher/robert-wu)
- 
 - Pegah Abed-Esfahani
 - [Sejal Bhalla](https://www.cs.toronto.edu/~sejal)
 - [Moshe Gabel](https;//www.cs.toronto.edu/~mgabel)
