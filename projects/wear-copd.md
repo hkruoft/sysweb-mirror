@@ -30,22 +30,22 @@ Chronic obstructive pulmonary disease (COPD) is a prevalent and disabling chroni
 <div align="left" id="banner">
     <div class="inline-block">
     <a href="http://sunnybrook.ca/">
-         <img src ="/images/logo-sb-hsc.png" height="100px">
+         <img src ="images/logo-sb-hsc.png" height="100px">
     </a>
     </div>
     <div class="inline-block">
-    <a href="http://http//agewell-nce.ca/">
-        <img src ="/images/age-well_logo.png" height="100px">
+    <a href="http://agewell-nce.ca/">
+        <img src ="images/age-well_logo.png" height="100px">
     </a> 
     </div>
     <div class="inline-block">
     <a href="http://www.nserc.ca/">
-        <img src ="/images/nserc.jpg" height="100px">
+        <img src ="images/nserc.jpg" height="100px">
     </a>
     </div>
     <div class="inline-block">
     <a href="http://http//www.cihr-irsc.gc.ca/e/193.html">
-        <img src ="/images/leaf-cihr-colour-portrait-en.jpg" height="100px">
+        <img src ="images/leaf-cihr-colour-portrait-en.jpg" height="100px">
     </a>
     </div>
 </div>
