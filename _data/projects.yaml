@@ -8,3 +8,22 @@
   link: projects/compiler-interpreter.html
   image: images/uoft.jpg
 
+- title: "Comprehensive Kernel Instrumentation with Dynamic Binary Instrumentation"
+  group: featured
+  image: images/uoft.jpg
+  link: projects/comprehensive-kernel-instrumentation.html
+
+- title: "Jackpine: A Spatial Database Benchmark"
+  group: featured
+  image: images/jackpine.jpg
+  link: projects/jackpine.html
+
+- title: "JITServer: Disaggregated Caching JIT Compiler"
+  group: featured
+  image: images/uoft.jpg
+  link: projects/jitserver.html
+
+- title: "WearCOPD: Remote COPD Patient Monitoring"
+  group: featured
+  image: images/ic_launcher-web.png
+  link: projects/wear-copd.html

@@ -215,6 +215,16 @@ unpublished:
   text: Unpublished
   tooltip: Unpublished
 
+video:
+  icon: fa-solid fa-video
+  text: Video
+  tooltip: Video
+
+bibtex:
+  icon: fa-regular fa-file-excel
+  text: BibTex
+  tooltip: BibTex
+    
 manubot:
   icon: manubot.svg
   text: Manubot

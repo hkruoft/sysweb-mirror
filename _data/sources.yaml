@@ -5,7 +5,6 @@
 # Towards Reconfigurable Linearizable Reads
 - id: arXiv:2404.05470v1  
   tags: 
-    - delara
   authors:
     - Myles Thiessen
     - Aleksey Panas
@@ -16,27 +15,23 @@
 - id: doi:10.1145/3642968.3654822
   title: "PathFS: A File System for the Hierarchical Edge"
   tags:
-    - delara
     - cloudpath
 
 # Feasibility of a wearable self-management application for patients with COPD at home
 - id: doi:10.1186/s12911-024-02461-y
   tags:
-    - delara
 
 # Towards Multi-Stakeholder Clouds
 - id: doi:10.1145/3638550.3641135
   tags:
-    - delara
   buttons:
     - type: slide
       text: Slides
-      link: slides/mcloud_presentation.pdf 
+      link: research/mcloud_presentation.pdf 
 
 # Enhancing modular application placement
 - id: doi:10.1016/j.comcom.2024.01.002
   tags:
-    - delara
 
 
 ## 2023
@@ -44,26 +39,46 @@
 # PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary Disease in the Wild
 - id: doi:10.1145/3610889
   tags:
-    - delara
 
 # PORTEND: A Joint Performance Model for Partitioned Early-Exiting DNNs
 - id: doi:10.1109/ICPADS60453.2023.00330
   tags:
-    - delara
 
 # Data Management Systems for the Hierarchical Edge
 - id: doi:10.1145/3614214.3614218
   tags:
-    - delara
     - cloudpath
 
+##2022
+# JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended Abstract)
+- id: isbn:978-1-939133-29-8
+  date: 2022-07-11
+  title: "JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended Abstract)"
+  link: https://www.usenix.org/conference/atc22/presentation/khrabrov
+  publisher: USENIX ATC'22
+  authors:
+    - Alexey Khrabrov
+    - Marius Pirvu
+    - Vijay Sundaresan
+    - Eyal de Lara
+  buttons:
+    - type: pdf
+      link: pub/words22-khrabrov.pdf
+    - type: slide
+      text: Slides
+      link: slides/words22-khrabrov-slides.pdf
+    - type: video
+      link: https://www.youtube.com/watch?v=15fjgHxeT-g
+    - type: bibtex
+      link: bibtex/jitserver-extended.txt
+  tags:
+    - jitserver
 ### Gururaj Saileshwar
 
 ## 2024
 #
 # PrIDE: Achieving Secure Rowhammer Mitigation with Low-Cost In-DRAM Trackers
 - id: doi:10.1109/ISCA59077.2024.00087
-  tags: gururaj
   authors:
     - Aamer Jaleel
     - Gururaj Saileshwar
@@ -78,7 +93,6 @@
 #
 # PT-Guard: Integrity-Protected Page Tables to Defend Against Breakthrough Rowhammer Attacks
 - id: doi:10.1109/DSN58367.2023.00022
-  tags: gururaj
   buttons:
     - type: slide
       text: Slides
@@ -89,7 +103,6 @@
 
 # Practical Timing Side-Channel Attacks on Memory Compression
 - id: doi:10.1109/SP46215.2023.10179297
-  tags: gururaj
   buttons:
     - type: source
       text: Code
@@ -99,7 +112,6 @@
 
 # SQUIP: Exploiting the Scheduler Queue Contention Side Channel
 - id: doi:10.1109/SP46215.2023.10179368
-  tags: gururaj
   buttons:
     - type: slide
       link: https://gururaj-s.github.io/assets/slides/SP23_Gast_slides.pdf
@@ -108,7 +120,6 @@
         
 # Scalable and Secure Row-Swap: Efficient and Safe Row Hammer Mitigation in Memory Systems
 - id: doi:10.1109/HPCA56546.2023.10070999
-  tags: gururaj
   buttons:
     - type: source
       text: Code
@@ -122,7 +133,6 @@
 ## 2022
 # AQUA: Scalable Rowhammer Mitigation by Quarantining Aggressor Rows at Runtime
 - id: doi:10.1109/MICRO56248.2022.00022
-  tags: gururaj
   buttons:
     - type: source
       text: Code
@@ -139,12 +149,10 @@
 ## 2024
 # Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering
 - id: doi:10.48550/arXiv.2408.09702
-  tags: nandita
   date: 2024-08-19
 
 # Distributed Training of Neural Radiance Fields: A Performance Characterization
 - id: doi:10.1109/ISPASS61541.2024.00044
-  tags: nandita
 
 
 
@@ -152,19 +160,15 @@
 ## 2024
 # Memento Filter: A Fast, Dynamic, and Robust Range Filter
 - id: arXiv:2408.05625
-  tags: nivdayan
 
 # Wayfinder: Speeding up Key-Value Separation by Avoiding I/O Based Indirection
 - id: doi:10.1145/3663351.3663880
-  tags: nivdayan
 
 # Beyond Bloom: A Tutorial on Future Feature-Rich Filters.
 - id: doi:10.1145/3626246.3654681
-  tags: nivdayan
 
 # Aleph Filter: To Infinity in Constant Time
 - id: arXiv:2404.04703
-  tags: nivdayan
 
 
 

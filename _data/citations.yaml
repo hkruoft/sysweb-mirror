@@ -227,8 +227,7 @@
   publisher: arXiv
   date: '2024-04-08'
   link: https://arxiv.org/abs/2404.05470v1
-  tags:
-  - delara
+  tags: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3642968.3654822
@@ -246,7 +245,6 @@
   date: '2024-04-22'
   link: https://doi.org/g6vqjn
   tags:
-  - delara
   - cloudpath
   plugin: sources.py
   file: sources.yaml
@@ -264,8 +262,7 @@
   publisher: BMC Medical Informatics and Decision Making
   date: '2024-03-05'
   link: https://doi.org/g6vswz
-  tags:
-  - delara
+  tags: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3638550.3641135
@@ -278,12 +275,11 @@
     and Applications
   date: '2024-02-28'
   link: https://doi.org/g6vvff
-  tags:
-  - delara
+  tags: null
   buttons:
   - type: slide
     text: Slides
-    link: slides/mcloud_presentation.pdf
+    link: research/mcloud_presentation.pdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.comcom.2024.01.002
@@ -298,8 +294,7 @@
   publisher: Computer Communications
   date: '2024-02-01'
   link: https://doi.org/g6vs9j
-  tags:
-  - delara
+  tags: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3610889
@@ -315,8 +310,7 @@
     Technologies
   date: '2023-09-27'
   link: https://doi.org/g6vwsd
-  tags:
-  - delara
+  tags: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICPADS60453.2023.00330
@@ -330,8 +324,7 @@
     (ICPADS)
   date: '2023-12-17'
   link: https://doi.org/g6vw8t
-  tags:
-  - delara
+  tags: null
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3614214.3614218
@@ -345,8 +338,32 @@
   date: '2023-08-03'
   link: https://doi.org/g6vw8x
   tags:
-  - delara
   - cloudpath
+  plugin: sources.py
+  file: sources.yaml
+- id: isbn:978-1-939133-29-8
+  date: '2022-07-11'
+  title: 'JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended
+    Abstract)'
+  link: https://www.usenix.org/conference/atc22/presentation/khrabrov
+  publisher: USENIX ATC'22
+  authors:
+  - Alexey Khrabrov
+  - Marius Pirvu
+  - Vijay Sundaresan
+  - Eyal de Lara
+  buttons:
+  - type: pdf
+    link: pub/words22-khrabrov.pdf
+  - type: slide
+    text: Slides
+    link: slides/words22-khrabrov-slides.pdf
+  - type: video
+    link: https://www.youtube.com/watch?v=15fjgHxeT-g
+  - type: bibtex
+    link: bibtex/jitserver-extended.txt
+  tags:
+  - jitserver
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISCA59077.2024.00087
@@ -360,7 +377,6 @@
     (ISCA)
   date: '2024-06-29'
   link: https://doi.org/g6vxk7
-  tags: gururaj
   buttons:
   - type: source
     text: Code
@@ -381,7 +397,6 @@
     and Networks (DSN)
   date: '2023-06-01'
   link: https://doi.org/g6v2sc
-  tags: gururaj
   buttons:
   - type: slide
     text: Slides
@@ -403,7 +418,6 @@
   publisher: 2023 IEEE Symposium on Security and Privacy (SP)
   date: '2023-05-01'
   link: https://doi.org/g6v3vv
-  tags: gururaj
   buttons:
   - type: source
     text: Code
@@ -426,7 +440,6 @@
   publisher: 2023 IEEE Symposium on Security and Privacy (SP)
   date: '2023-05-01'
   link: https://doi.org/g6v37v
-  tags: gururaj
   buttons:
   - type: slide
     link: https://gururaj-s.github.io/assets/slides/SP23_Gast_slides.pdf
@@ -445,7 +458,6 @@
     (HPCA)
   date: '2023-02-01'
   link: https://doi.org/g6v4f6
-  tags: gururaj
   buttons:
   - type: source
     text: Code
@@ -467,7 +479,6 @@
   publisher: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
   date: '2022-10-01'
   link: https://doi.org/g6v5xt
-  tags: gururaj
   buttons:
   - type: source
     text: Code
@@ -491,7 +502,6 @@
   publisher: arXiv
   date: '2024-08-19'
   link: https://doi.org/g6v8zw
-  tags: nandita
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISPASS61541.2024.00044
@@ -508,7 +518,6 @@
     and Software (ISPASS)
   date: '2024-05-05'
   link: https://doi.org/g6v886
-  tags: nandita
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2408.05625
@@ -519,7 +528,6 @@
   publisher: arXiv
   date: '2024-08-14'
   link: https://arxiv.org/abs/2408.05625
-  tags: nivdayan
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3663351.3663880
@@ -532,7 +540,6 @@
   publisher: Proceedings of the 2nd Workshop on Simplicity in Management of Data
   date: '2024-06-14'
   link: https://doi.org/g63cbp
-  tags: nivdayan
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3626246.3654681
@@ -545,7 +552,6 @@
   publisher: Companion of the 2024 International Conference on Management of Data
   date: '2024-06-09'
   link: https://doi.org/g63ccw
-  tags: nivdayan
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2404.04703
@@ -557,7 +563,6 @@
   publisher: arXiv
   date: '2024-08-22'
   link: https://arxiv.org/abs/2404.04703
-  tags: nivdayan
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2404.12512

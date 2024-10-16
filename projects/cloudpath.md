@@ -21,11 +21,11 @@ Path computing is a new paradigm that generalizes the edge computing vision into
 - Abhishek Tiwari
  
 ## Sponsors
-{% capture col1 %}
-{% include figure.html image="images/nserc.jpg" width="30%" %}
-{% endcapture %}
-{% include cols.html col1=col1 %}
-
+<div align="left" id="banner">
+    <div class="inline-block">
+        <img src ="/images/nserc.jpg" height="100px">
+    </div>
+</div>
 
 ## Publications
 
