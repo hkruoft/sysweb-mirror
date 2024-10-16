@@ -298,7 +298,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3610889
-  title: PulmoListener
+  title: 'PulmoListener: Continuous Acoustic Monitoring of Chronic Obstructive Pulmonary
+    Disease in the Wild'
   authors:
   - Sejal Bhalla
   - Salaar Liaqat
