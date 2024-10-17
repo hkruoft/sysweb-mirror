@@ -14,6 +14,12 @@ layout: default
   {% endfor %}
 </div>
 
+{% if page.office %}
+<div><br>
+        {% include icon.html icon="fa-solid fa-location-dot" %} {{ member.office }}
+</div>
+{% endif %}
+
 {% endcapture %}
 
 {% include float.html content=floatcontent %}

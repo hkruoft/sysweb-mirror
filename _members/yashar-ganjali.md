@@ -8,4 +8,4 @@ links:
   google-scholar: 9btkXOgAAAAJ
 ---
 
-My research focuses on computer networks in general, and data center networking, software defined networks, and congestion control.
+Yashar Ganjali's research focuses on computer networks in general, and data center networking, software defined networks, and congestion control.

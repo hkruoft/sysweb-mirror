@@ -2,6 +2,7 @@
 name: Angela Demke Brown
 image: images/demke.jpg
 role: faculty
+office: BA 5228
 links:
   home-page: https://www.cs.toronto.edu/~demke
   email: demke@cs.toronto.edu  

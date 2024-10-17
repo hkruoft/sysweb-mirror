@@ -2,6 +2,7 @@
 name: Niv Dayan
 image: images/niv.png
 role: faculty
+office: "BA 5230"
 aliases:
   - Niv
 links:

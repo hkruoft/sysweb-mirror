@@ -75,6 +75,11 @@ phone:
   tooltip: Phone number
   link: tel:$VALUE
 
+office:
+  icon: fa-solid fa-map-location-dot
+  text: Room
+  tooltip: Room
+
 address:
   icon: fa-solid fa-map-location-dot
   text: Address
