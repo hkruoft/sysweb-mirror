@@ -17,6 +17,6 @@ The computer systems and networks group engages in a wide range of experimental 
 
 {% include section.html %}
 
-## More
+## Old Projects
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}

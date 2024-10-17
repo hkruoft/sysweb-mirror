@@ -182,26 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -349,7 +334,35 @@
   - cloudpath
   plugin: sources.py
   file: sources.yaml
-- date: '2022-07-11'
+- id: doi:10.1109/PerComWorkshops53856.2022.9767385
+  title: 'Hindsight is 20/20: Retrospective Lessons for Conducting Longitudinal Wearable
+    Sensing Studies'
+  authors:
+  - Salaar Liaqat
+  - Daniyal Liaqat
+  - Tatiana Son
+  - Andrea Gershon
+  - Moshe Gabel
+  - Robert Wu
+  - Eyal de Lara
+  publisher: 2022 IEEE International Conference on Pervasive Computing and Communications
+    Workshops and other Affiliated Events (PerCom Workshops)
+  date: '2022-03-21'
+  link: https://doi.org/g6k2ss
+  description: <span style='color:#b523cf;'><b>Best Paper Award at PerFail 2022</b></span>
+  buttons:
+  - type: pdf
+    link: pub/hindsight_percom.pdf
+  - type: video
+    link: https://www.youtube.com/watch?v=XQXcqDWDeyA
+  - type: bibtex
+    link: bibtex/hindsight20-20.txt
+  tags:
+  - wearcopd
+  plugin: sources.py
+  file: sources.yaml
+- id: 2022 USENIX Annual Technical Conference
+  date: '2022-07-11'
   title: 'JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended
     Abstract)'
   link: https://www.usenix.org/conference/atc22/presentation/khrabrov
@@ -572,267 +585,44 @@
   link: https://arxiv.org/abs/2404.04703
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2404.12512
-  title: 'Proteus: Preserving Model Confidentiality during Graph Optimizations'
+- id: doi:10.1145/3620666.3651376
+  title: 'AUDIBLE: A Convolution-Based Resource Allocator for Oversubscribing Burstable
+    Virtual Machines'
   authors:
-  - Yubo Gao
-  - Maryam Haghifam
-  - Christina Giannoula
-  - Renbo Tu
-  - Gennady Pekhimenko
-  - Nandita Vijaykumar
+  - Seyedali Jokar Jandaghi
+  - Kaveh Mahdaviani
+  - Amirhossein Mirhosseini
+  - Sameh Elnikety
+  - Cristiana Amza
+  - Bianca Schroeder
+  publisher: Proceedings of the 29th ACM International Conference on Architectural
+    Support for Programming Languages and Operating Systems, Volume 3
+  date: '2024-04-27'
+  link: https://doi.org/g8kz4w
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2407.13658
+  title: 'DPDPU: Data Processing with DPUs'
+  authors:
+  - Jiasheng Hu
+  - Philip A. Bernstein
+  - Jialin Li
+  - Qizhen Zhang
   publisher: arXiv
-  date: '2024-04-22'
-  link: https://arxiv.org/abs/2404.12512
+  date: '2024-07-30'
+  link: https://arxiv.org/abs/2407.13658
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.86491
-  title: "Tracking subjects\u2019 strategies in behavioural choice experiments at\
-    \ trial resolution"
+- id: doi:10.14778/3681954.3682002
+  title: 'DDS: DPU-Optimized Disaggregated Storage'
   authors:
-  - Silvia Maggi
-  - Rebecca M Hock
-  - Martin O'Neill
-  - Mark Buckley
-  - Paula M Moran
-  - Tobias Bast
-  - Musa Sami
-  - Mark D Humphries
-  publisher: eLife
-  date: '2024-03-01'
-  link: https://doi.org/gtpkdp
-  tags:
-  - Bayesian
-  - behaviour
-  buttons:
-  - type: package
-    text: MATLAB toolbox
-    link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
-  - type: package
-    text: Python toolbox
-    link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python
-  - type: data
-    text: Y-maze data
-    link: http://dx.doi.org/10.6080/K0KH0KH5
-  - type: data
-    text: Other task data
-    link: http://doi.org/10.17639/nott.7274
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1523/JNEUROSCI.1412-21.2022
-  title: Activity Subspaces in Medial Prefrontal Cortex Distinguish States of the
-    World
-  authors:
-  - Silvia Maggi
-  - Mark D. Humphries
-  publisher: The Journal of Neuroscience
-  date: '2022-04-14'
-  link: https://doi.org/gt66t9
-  tags:
-  - prefrontal-cortex
-  - latent-dynamics
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1523/jneurosci.1487-21.2021
-  title: Bayesian Mapping of the Striatal Microcircuit Reveals Robust Asymmetries
-    in the Probabilities and Distances of Connections
-  authors:
-  - "Fran\xE7ois Cinotti"
-  - Mark D. Humphries
-  publisher: The Journal of Neuroscience
-  date: '2021-12-10'
-  link: https://doi.org/gt66vb
-  tags:
-  - basal-ganglia
-  - Bayesian
-  buttons:
-  - type: source
-    text: Code
-    link: https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0254057
-  title: Spectral estimation for detecting low-dimensional structure in networks using
-    arbitrary null models
-  authors:
-  - Mark D. Humphries
-  - Javier A. Caballero
-  - Mat Evans
-  - Silvia Maggi
-  - Abhinav Singh
-  publisher: PLOS ONE
-  date: '2021-07-02'
-  link: https://doi.org/gng4z8
-  tags:
-  - network-theory
-  buttons:
-  - type: package
-    text: Code toolbox
-    link: https://github.com/mdhumphries/NetworkNoiseRejection
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.51628/001c.24619
-  title: Strong and weak principles of neural dimension reduction
-  authors:
-  - Mark D Humphries
-  publisher: Neurons, Behavior, Data analysis, and Theory
-  date: '2021-06-17'
-  link: https://doi.org/gt66vd
-  tags:
-  - latent-dynamics
-  plugin: sources.py
-  file: sources.yaml
-- id: isbn:9780691195889
-  title: 'The spike: an epic journey through the brain in 2.1 seconds'
-  authors:
-  - Mark Humphries
-  publisher: Princeton University Press
-  date: '2021-01-01'
-  link: ''
-  tags:
-  - latent-dynamics
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1523/jneurosci.1370-17.2019
-  title: Medial prefrontal cortex population activity is plastic irrespective of learning
-  authors:
-  - Abhinav Singh
-  - Adrien Peyrache
-  - Mark D. Humphries
-  publisher: The Journal of Neuroscience
-  date: '2019-02-27'
-  link: https://doi.org/gf82mq
-  tags:
-  - prefrontal cortex
-  buttons:
-  - type: source
-    text: Code for paper
-    link: https://github.com/mdhumphries/PfCDictionary
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41467-018-04638-2
-  title: An ensemble code in medial prefrontal cortex links prior events to outcomes
-    during learning
-  authors:
-  - Silvia Maggi
-  - Adrien Peyrache
-  - Mark D. Humphries
-  publisher: Nature Communications
-  date: '2018-06-07'
-  link: https://doi.org/gdqzgc
-  tags:
-  - prefrontal cortex
-  buttons:
-  - type: source
-    text: Code for paper
-    link: https://github.com/sibangi/PFCensemble_ITI
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.27342
-  title: A spiral attractor network drives rhythmic locomotion
-  authors:
-  - Angela M Bruno
-  - William N Frost
-  - Mark D Humphries
-  publisher: eLife
-  date: '2017-08-07'
-  link: https://doi.org/gsvdtf
-  tags:
-  - Aplysia
-  - latent-dynamics
-  buttons:
-  - type: source
-    text: Code for paper
-    link: https://github.com/mdhumphries/AplysiaAttractorAnalysis
-  - type: data
-    text: Data
-    link: http://dx.doi.org/10.6080/K0SN074B
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.neuron.2015.03.005
-  title: Modular Deconstruction Reveals the Dynamical and Physical Building Blocks
-    of a Locomotion Motor Program
-  authors:
-  - "Angela\_M. Bruno"
-  - "William\_N. Frost"
-  - "Mark\_D. Humphries"
-  publisher: Neuron
-  date: '2015-04-01'
-  link: https://doi.org/f676qp
-  tags:
-  - Aplysia
-  - latent-dynamics
-  buttons:
-  - type: source
-    text: Code for paper
-    link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.pneurobio.2012.09.004
-  title: Population-wide distributions of neural activity during perceptual decision-making
-  authors:
-  - Adrien Wohrer
-  - Mark D. Humphries
-  - Christian K. Machens
-  publisher: Progress in Neurobiology
-  date: '2013-04-01'
-  link: https://doi.org/f4sbkw
-  tags:
-  - latent-dynamics
-  buttons:
-  - type: paper
-    text: Download paper
-    link: pub/Wohrer2013.pdf
-  plugin: sources.py
-  file: sources.yaml
-- id: pmid:22347155
-  title: Dopaminergic Control of the Exploration-Exploitation Trade-Off via the Basal
-    Ganglia.
-  authors:
-  - Mark D Humphries
-  - Mehdi Khamassi
-  - Kevin Gurney
-  publisher: Frontiers in neuroscience
-  date: '2012-02-06'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/22347155
-  tags:
-  - dopamine
-  - basal-ganglia
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1017/CBO9780511731525.018
-  title: 'The medial reticular formation: a brainstem substrate for simple action
-    selection?'
-  authors:
-  - Mark D. Humphries
-  - Kevin N. Gurney
-  - Tony J Prescott
-  publisher: Modelling Natural Action Selection
-  date: '2011-11-10'
-  link: https://doi.org/bwkjjp
-  tags:
-  - reticular-formation
-  - action-selection
-  buttons:
-  - type: paper
-    text: Download paper
-    link: pub/Humphries2011a.pdf
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0002051
-  title: "Network \u2018Small-World-Ness\u2019: A Quantitative Method for Determining\
-    \ Canonical Network Equivalence"
-  authors:
-  - Mark D. Humphries
-  - Kevin Gurney
-  publisher: PLoS ONE
-  date: '2008-04-30'
-  link: https://doi.org/b4hv6r
-  tags:
-  - network-theory
-  buttons:
-  - type: package
-    text: Code toolbox
-    link: https://github.com/mdhumphries/SmallWorldNess
+  - Qizhen Zhang
+  - Philip A. Bernstein
+  - Badrish Chandramouli
+  - Jiasheng Hu
+  - Yiming Zheng
+  publisher: Proceedings of the VLDB Endowment
+  date: '2024-07-01'
+  link: https://doi.org/g8k2bq
   plugin: sources.py
   file: sources.yaml

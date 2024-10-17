@@ -14,6 +14,10 @@ Java virtual machines (JVMs) rely on just-in-time (JIT) compilers to improve app
 - Marius Pirvu
 - Alexey Khrabrov
 
+## Press
+
+{% include post-excerpt.html title="Alexey Khrabrov wins the 2022 Student of the Year award! (IBM CAS)" url="https://casweb.59b0587b.public.multi-containers.ibm.com/ibm/cas/canada/awards/SofY2022" image="images/alexey-soty22-ibm.jpg" date="March 2022" last_modified_at="" %}
+
 
 ## Sponsors
 <div align="left" id="banner">

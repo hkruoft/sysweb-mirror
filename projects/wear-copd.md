@@ -59,7 +59,8 @@ Chronic obstructive pulmonary disease (COPD) is a prevalent and disabling chroni
         date=d.date 
         link=d.link 
         style=style 
-        buttons=d.buttons 
+        buttons=d.buttons
+        description=d.description 
       %}
     {% endfor %}
   {% endfor %}

@@ -1,0 +1,84 @@
+- title: Eyal de Lara appointed Chair and Graduate Chair of Department of Computer Science
+  image: images/eyal.jpg
+  tags: news,faculty
+  date: 2022-06-02
+  link: https://web.cs.toronto.edu/news-events/news/eyal-de-lara-appointed-chair-and-graduate-chair-of-department-of-computer-science
+  description: Prof. Eyal de Lara has been appointed Chair and Graduate Chair of the Department of Computer Science, effective July 1, 2022 until June 30, 2027. 
+
+
+
+- title: Gennady Pekhimenko promoted to Associate Professor with tenure
+  image: images/gennady.png
+  tags: news,faculty
+  date: "2023-06-29"
+  link: https://web.cs.toronto.edu/news-events/news/department-of-computer-science-announces-promotion-of-five-faculty-members
+  description: Effective July 1, 2023, Prof. Gennady Pekhimenko has been promoted to the rank of Associate Professor with tenure.
+
+- title: U of T researchers leverage AI to decipher lung health from speech
+  image: images/sejal.jpg
+  tags: news,grad
+  date: 2023-11-07
+  link: https://web.cs.toronto.edu/news-events/news/u-of-t-researchers-leverage-ai-to-decipher-lung-health-from-speech
+  description: PhD student Sejal Bhalla developed speech analysis software, alongside a team of computer scientists and clinicians, that uses AI to detect changes in vocal characteristics among patients diagnosed with chronic obstructive pulmonary disease.
+
+- title: "New faculty spotlight: Gururaj Saileshwar"
+  image: images/gururaj.png
+  tags: news,faculty
+  date: 2023-11-30
+  link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-gururaj-saileshwar
+  description: Get to know Prof. Gururaj Saileshwar who joined the Dept. of Mathematical and Computational Sciences (UTSC) and the tri-campus graduate Dept. of Computer Science, as well as, SysNet in August 2023.
+
+- title: "New faculty spotlight: Qizhen Zhang"
+  image: images/qizhen.jpg
+  tags: news,faculty
+  date: 2023-12-15
+  link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-qizhen-zhang
+  description: Get to know Prof. Qizhen Zhang who joined the Dept. of Mathematical and Computational Sciences (UTSC) and the tri-campus graduate Dept. of Computer Science, as well as, SysNet in August 2023.
+
+- title: "New faculty spotlight: Niv Dayan"
+  image: images/niv.jpg
+  tags: news, faculty
+  date: 2024-01-12
+  link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-niv-dayan
+  description: Get to know Prof. Niv Dayan who joined the Dept. of Computer Science and SysNet in January 2023 in this spotlight.
+
+
+- title: CentML startup led by Gennady Pekhimenko provides cost-effective machine learning solutions to companies
+  image: images/centml-logo.jpg
+  tags: news
+  date: 2024-05-16
+  link: https://web.cs.toronto.edu/news-events/news/centml-startup-gennady-pekhimenko
+  description: CentML, founded by a team including CS faculty, PhD students & alumni, the company sprung from research at Prof. Gennady Pekhimenko's EcoSystem Lab.
+
+- title: Christina Christodoulakis (PhD) wants to make open data easier to access and use
+  image: images/christinac.jpg
+  tags: news, grad, alumni
+  date: 2024-06-05
+  link: https://web.cs.toronto.edu/news-events/news/phd-grad-christina-christodoulakis-wants-to-make-open-data-easier-to-access-and-use
+  description: 2024 PhD graduate Christina Christodoulakis has worked to improve the ways data can be analyzed, integrated, and searched. She goes into more details in this spotlight.
+
+- title: "New Faculty: Anwar Hithnawi joins SysNet"
+  image: images/anwar-hithnawi.jpg
+  tags: news, faculty
+  date: 2024-09-04
+  link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-anwar-hithnawi
+  description: "Prof. Anwar Hithnawi will join the Department of Computer Science & the Systems & Networks Group (SysNet) as assistant professor in January 2025."
+
+- title: "Nandita Vijaykumar and Igor Gilitschenski win 2022 Sony Focused Research Award"
+  image: https://images.squarespace-cdn.com/content/v1/5c8e9a223560c34f9070706f/3d63c212-2bf7-4bdc-864b-37b418ecce6f/nandita-igor_3_sm.jpg
+  tags: news,faculty,awards
+  date: "2023-10-05" 
+  link: "https://web.cs.toronto.edu/news-events/news/nandita-vijaykumar-and-igor-gilitschenski-win-2022-sony-focused-research-award"
+  description: Professors Nandita Vijaykumar and Igor Gilitschenski have jointly received a 2022 Sony Focused Research Award.
+
+- title: "Alexey Khrabrov wins the 2022 Student of the Year award (IBM CAS)"
+  image: images/alexey-soty22-ibm.jpg
+  tags: news, grad
+  date: "2022-03-01"
+  link: https://casweb.59b0587b.public.multi-containers.ibm.com/ibm/cas/canada/awards/SofY2022
+
+- title: "Profs. Bianca Schroeder and Garth Gibson received the 2019 FAST Test of Time Award for their paper 'Disk Failures in the Real World: What Does an MTTF of 1,000,000 Hours Mean to You?' originally presented at FAST 2007."
+  image: images/fast-testoftime2019-1.jpg
+  tags: news, faculty
+  date: "2019-03-01"
+  link: https://www.usenix.org/conference/fast-07/disk-failures-real-world-what-does-mttf-1000000-hours-mean-you

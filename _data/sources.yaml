@@ -58,8 +58,22 @@
     - cloudpath
 
 ##2022
+# Hindsight is 20/20: Retrospective Lessons for Conducting Longitudinal Wearable Sensing Studies
+- id: doi:10.1109/PerComWorkshops53856.2022.9767385
+  description: "<span style='color:#b523cf;'><b>Best Paper Award at PerFail 2022</b></span>"
+  buttons:
+    - type: pdf
+      link: pub/hindsight_percom.pdf
+    - type: video
+      link: https://www.youtube.com/watch?v=XQXcqDWDeyA
+    - type: bibtex
+      link: bibtex/hindsight20-20.txt 
+  tags: 
+    - wearcopd
+
 # JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended Abstract)
-- date: 2022-07-11
+- id: "2022 USENIX Annual Technical Conference"
+  date: 2022-07-11
   title: "JITServer: Disaggregated Caching JIT Compiler for the JVM in the Cloud (Extended Abstract)"
   link: https://www.usenix.org/conference/atc22/presentation/khrabrov
   publisher: USENIX ATC'22
@@ -178,158 +192,19 @@
 - id: arXiv:2404.04703
 
 
+### Bianca Schroeder
+## 2024
+# AUDIBLE: A Convolution-Based Resource Allocator for Oversubscribing Burstable Virtual Machines
+- id: doi:10.1145/3620666.3651376
 
+### Qizhen Zhang
+## 2024
+# DPDPU: Data Processing with DPUs
+- id: arXiv:2407.13658 
+   
+# DDS: DPU-Optimized Disaggregated Storage
+- id: doi:10.14778/3681954.3682002
 
-# Proteus: Preserving Model Confidentiality during Graph Optimizations
-- id: arXiv:2404.12512
-  
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-      
-# Strategy Tracker paper
-- id: doi:10.7554/eLife.86491
-  tags:
-    - Bayesian
-    - behaviour
-  buttons:
-    - type: package
-      text: MATLAB toolbox
-      link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_MATLAB
-    - type: package
-      text: Python toolbox
-      link: https://github.com/Humphries-Lab/Bayesian_Strategy_Analysis_Python
-    - type: data
-      text: Y-maze data
-      link: http://dx.doi.org/10.6080/K0KH0KH5
-    - type: data
-      text: Other task data
-      link: http://doi.org/10.17639/nott.7274  
-      
-# Activity subspaces in mPfC   
-- id: doi:10.1523/JNEUROSCI.1412-21.2022
-  tags:
-    - prefrontal-cortex
-    - latent-dynamics
-
-# Bayesian inference of connections between neurons
-- id: doi:10.1523/jneurosci.1487-21.2021
-  tags:
-    - basal-ganglia
-    - Bayesian
-  buttons:
-    - type: source
-      text: Code
-      link: https://github.com/Humphries-Lab/Bayesian-map-of-striatum-circuitry
-
-# Spectral estimation for networks
-- id: doi:10.1371/journal.pone.0254057
-  tags:
-    - network-theory
-  buttons:
-    - type: package
-      text: Code toolbox
-      link: https://github.com/mdhumphries/NetworkNoiseRejection
-
-# weak-strong principles
-- id: doi:10.51628/001c.24619
-  tags:
-    - latent-dynamics
-
-# The Spike
-- id: isbn:9780691195889
-  tags:
-    - latent-dynamics
-
-# mPfC plastic irrespective of learning
-- id: doi:10.1523/jneurosci.1370-17.2019
-  tags:
-    - prefrontal cortex
-  buttons:
-    - type: source
-      text: Code for paper
-      link: https://github.com/mdhumphries/PfCDictionary
-
-# Ensemble code in mPhfC
-- id: doi:10.1038/s41467-018-04638-2
-  tags:
-    - prefrontal cortex
-  buttons:
-    - type: source
-      text: Code for paper
-      link: https://github.com/sibangi/PFCensemble_ITI
-
-# Aplysia spiral attractor
-- id: doi:10.7554/eLife.27342
-  tags:
-    - Aplysia
-    - latent-dynamics
-  buttons:
-    - type: source
-      text: Code for paper
-      link: https://github.com/mdhumphries/AplysiaAttractorAnalysis
-    - type: data
-      text: Data
-      link: http://dx.doi.org/10.6080/K0SN074B
-
-# Aplysia modular deconstruction
-- id: doi:10.1016/j.neuron.2015.03.005
-  tags:
-    - Aplysia
-    - latent-dynamics
-  buttons:
-    - type: source
-      text: Code for paper
-      link: https://github.com/mdhumphries/NeuralEnsembleAnalysis
-
-# Prog Neurobiol cortical activity distributions
-- id: doi:10.1016/j.pneurobio.2012.09.004
-  tags:
-    - latent-dynamics
-  buttons:
-    - type: paper
-      text: Download paper
-      link: pub/Wohrer2013.pdf
-
-# DA exploit-explore via BG
-- id: pmid:22347155
-  tags:
-    - dopamine
-    - basal-ganglia
-
-# MNAS book chapter 
-- id: doi:10.1017/CBO9780511731525.018
-  tags:
-    - reticular-formation
-    - action-selection
-  buttons:
-    - type: paper
-      text: Download paper
-      link: pub/Humphries2011a.pdf
-
-# PLoS One small-world-ness
-- id: doi:10.1371/journal.pone.0002051
-  tags:
-    - network-theory
-  buttons:
-    - type: package
-      text: Code toolbox
-      link: https://github.com/mdhumphries/SmallWorldNess 
-      
 # papers to remove from ORCID: bioRxiv versions of published papers
 
 # motor cortex pre-print: uncomment once published in full

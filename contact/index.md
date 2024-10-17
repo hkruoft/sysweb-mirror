@@ -24,12 +24,12 @@ Our group is part of the [Dept. of Computer Science](https://web.cs.toronto.edu/
 
 {% include section.html %}
 {% capture col1 %}
-{% include figure.html image="images/bahen.jpg" caption="Bahen Centre for Information Technology" width="500px" %}
+{% include figure.html image="images/bahen.jpg" caption="Bahen Centre for Information Technology <br> (Photo by Tom Arban / Diamond Schmitt)" width="500px" %}
 {% endcapture %}
 
 
 {% capture col2 %}
-{% include figure.html image="images/bahen-atrium.png" caption="Bahen Centre Atrium" width="500px" %}
+{% include figure.html image="images/bahen-atrium-2.png" caption="Bahen Centre Atrium <br> (Photo by Matt Clare via Flickr)" height="375px" %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}

@@ -27,7 +27,7 @@ nav:
 
 
 {% include section.html %}
-# Alumni
+# Recent Alumni
 {% include list.html data="members" component="portrait" filters="role: alum-phd" %}
 {% include list.html data="members" component="portrait" filters="role: alum-masters" %}
 {% include section.html background="images/background.jpg" dark=true %}

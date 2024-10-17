@@ -13,11 +13,11 @@
     {% assign url = post.url %}
     {% assign title = post.title %}
     {% assign image = post.image %}
-
+    {% assign link = post.link %}
     {% if image %}
       <a
-        href="{{ url | relative_url }}"
-        class="post-excerpt-image"
+        href="{% if link %}{{ link }}{% else %}{{ url | relative_url }}{% endif %}"
+	class="post-excerpt-image"
         aria-label="{{ title | default: "excerpt link" }}"
       >
         <img
@@ -30,20 +30,18 @@
     {% endif %}
 
     <div class="post-excerpt-text">
-      <a href="{{ url | relative_url }}">{{ title }}</a>
-
+	<a href="{% if link %}{{ link }}{% else %}{{ url | relative_url }}{% endif %}">{{ title }}</a>
       {%
         include post-info.html
         author=post.author
         published=post.date
-        updated=post.last_modified_at
         tags=post.tags
       %}
 
-      {% assign excerpt = post.content
+      {% assign excerpt = post.description
         | default: ""
         | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
-        | default: post.excerpt
+        | default: post.description
         | default: ""
         | strip_html
       %}

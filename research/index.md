@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-scroll" %}Publications
 
-<center> Below are the publications from the group. Each are tagged by the corresponding faculty member of the group.</center>
+<center> Below are the publications from the group.</center>
 
 
 ## All
