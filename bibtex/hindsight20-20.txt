@@ -1,0 +1,9 @@
+@InProceedings{,
+author = "Salaar Liaqat and Daniyal Liaqat and Tatiana Son and Andrea Gershon and Moshe Gabel and Robert Wu and Eyal de Lara",
+title = "Hindsight is 20/20: Retrospective Lessons for Conducting Longitudinal Wearable Sensing Studies",
+booktitle = "First International Workshop on Negative Results in Pervasive Computing",
+address = "Cyberspace",
+month = "March",
+year = "2022",
+pages = "",
+}
