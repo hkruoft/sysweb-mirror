@@ -11,8 +11,4 @@ Dynamic binary instrumentation (DBI) has been used extensively at the user level
 - [Peter Feiner](http://www.cs.toronto.edu/~peter/)
 
 ## Sponsor
-  <div align="left" id="banner">
-    <div class="inline-block">
-        <img src ="/images/nserc.jpg" height="100px">
-    </div>
-</div>
+[![image]({{ "/images/nserc.jpg" | relative_url }}){:width="250px"}](https://www.nserc-crsng.gc.ca/)

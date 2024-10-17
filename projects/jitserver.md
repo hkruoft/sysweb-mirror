@@ -20,14 +20,9 @@ Java virtual machines (JVMs) rely on just-in-time (JIT) compilers to improve app
 
 
 ## Sponsors
-<div align="left" id="banner">
-    <div class="inline-block">
-        <img src ="/images/nserc.jpg" height="100px">
-    </div>
-    <div class="inline-block">
-        <img src ="/images/ibm-advanced-studies.png" height="100px">
-    </div>
-</div>
+
+[![image]({{ "/images/nserc.jpg" | relative_url }}){:width="250px"}](https://www.nserc-crsng.gc.ca/)
+[![image]({{ "/images/ibm-advanced-studies.png" | relative_url }}){:width="250px"}](http://www.ibm.com/ibm/cas/)
 
 
 ## Publications

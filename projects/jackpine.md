@@ -17,11 +17,7 @@ Trivia: the Jack pine is a species of pine tree. It is also the name of a famous
 - [Bogdan Simion](http://www.cs.toronto.edu/~bogdan/)
 
 ## Sponsor
-<div align="left" id="banner">
-    <div class="inline-block">
-        <img src ="/images/nserc.jpg" height="100px">
-    </div>
-</div>
+[![image]({{ "/images/nserc.jpg" | relative_url }}){:width="250px"}](https://www.nserc-crsng.gc.ca/)
 
 ## Downloads
 
