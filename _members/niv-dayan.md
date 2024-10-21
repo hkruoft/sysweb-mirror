@@ -1,6 +1,6 @@
 ---
 name: Niv Dayan
-image: images/niv.png
+image: images/niv.webp
 role: faculty
 office: "BA 5230"
 aliases:
