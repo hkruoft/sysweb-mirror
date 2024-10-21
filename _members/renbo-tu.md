@@ -1,6 +1,6 @@
 ---
 name: Renbo Tu
-image: images/renbo.jpg
+image: images/renbo-30p.jpg
 role: phd
 group: current
 links:
