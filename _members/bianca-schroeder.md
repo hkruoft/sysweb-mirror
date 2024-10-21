@@ -1,6 +1,6 @@
 ---
 name: Bianca Schröeder
-image: images/bianca.webp
+image: images/bianca.png
 role: faculty
 links:
   home-page: https://www.cs.toronto.edu/~bianca

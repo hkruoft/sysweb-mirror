@@ -1,6 +1,6 @@
 ---
 name: Kai Shen
-image: images/kai.webp
+image: images/kai.jpg
 role: phd
 group: current
 links:

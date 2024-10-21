@@ -22,14 +22,14 @@
   description: PhD student Sejal Bhalla developed speech analysis software, alongside a team of computer scientists and clinicians, that uses AI to detect changes in vocal characteristics among patients diagnosed with chronic obstructive pulmonary disease.
 
 - title: "New faculty spotlight: Gururaj Saileshwar"
-  image: images/gururaj.png
+  image: images/gururaj.webp
   tags: news,faculty
   date: 2023-11-30
   link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-gururaj-saileshwar
   description: Get to know Prof. Gururaj Saileshwar who joined the Dept. of Mathematical and Computational Sciences (UTSC) and the tri-campus graduate Dept. of Computer Science, as well as, SysNet in August 2023.
 
 - title: "New faculty spotlight: Qizhen Zhang"
-  image: images/qizhen.jpg
+  image: images/qizhen.webp
   tags: news,faculty
   date: 2023-12-15
   link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-qizhen-zhang
@@ -51,7 +51,7 @@
   description: CentML, founded by a team including CS faculty, PhD students & alumni, the company sprung from research at Prof. Gennady Pekhimenko's EcoSystem Lab.
 
 - title: Christina Christodoulakis (PhD) wants to make open data easier to access and use
-  image: images/christinac.jpg
+  image: images/christinac.webp
   tags: news, grad, alumni
   date: 2024-06-05
   link: https://web.cs.toronto.edu/news-events/news/phd-grad-christina-christodoulakis-wants-to-make-open-data-easier-to-access-and-use
