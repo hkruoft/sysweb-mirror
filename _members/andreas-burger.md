@@ -1,6 +1,6 @@
 ---
 name: Andreas Burger
-image: images/andreas.jpg
+image: images/andreas.webp
 role: phd
 group: current
 links:

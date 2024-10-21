@@ -1,6 +1,6 @@
 ---
 name: Eyal de Lara
-image: images/eyal.jpg
+image: images/eyal.webp
 role: faculty
 links:
   home-page: https://www.cs.toronto.edu/~delara

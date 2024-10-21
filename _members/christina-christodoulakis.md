@@ -1,6 +1,6 @@
 ---
 name: Christina Christodoulakis
-image: images/christinac.jpg
+image: images/christinac.webp
 role: alum-phd
 group: alum
 links:

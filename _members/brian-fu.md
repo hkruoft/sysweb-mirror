@@ -1,6 +1,6 @@
 ---
 name: Brian Fu
-image: images/brianfu.jpg
+image: images/brianfu.webp
 role: phd
 group: current
 links:

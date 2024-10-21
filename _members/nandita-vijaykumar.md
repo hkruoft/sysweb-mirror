@@ -1,6 +1,6 @@
 ---
 name: Nandita Vijaykumar
-image: images/nandita.png
+image: images/nandita.webp
 role: faculty
 links:
   home-page: https://www.cs.toronto.edu/~nandita/

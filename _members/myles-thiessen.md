@@ -1,6 +1,6 @@
 ---
 name: Myles Thiessen
-image: images/myles.jpg
+image: images/myles.webp
 role: phd
 group: current
 links:

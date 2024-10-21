@@ -1,6 +1,6 @@
 ---
 name: Peter Marbach
-image: images/peter.png
+image: images/peter.webp
 role: faculty
 links:
   home-page: https://www.cs.toronto.edu/~marbach/

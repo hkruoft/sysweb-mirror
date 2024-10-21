@@ -1,6 +1,6 @@
 ---
 name: Guy Khazma
-image: images/guy.png
+image: images/guy.webp
 role: phd
 group: current
 links:

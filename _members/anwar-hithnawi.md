@@ -1,6 +1,6 @@
 ---
 name: Anwar Hithnawi (joining 2025)
-image: images/anwar-hithnawi.jpg
+image: images/anwar-hithnawi.webp
 role: future
 links:
     home-page: https://pps-lab.com/people/anwarhithnawi/

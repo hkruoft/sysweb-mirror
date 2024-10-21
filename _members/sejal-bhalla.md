@@ -1,6 +1,6 @@
 ---
 name: Sejal Bhalla
-image: images/sejal.jpg
+image: images/sejal.webp
 role: phd
 group: current
 links:

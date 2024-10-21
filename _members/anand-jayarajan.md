@@ -1,6 +1,6 @@
 ---
 name: Anand Jayarajan
-image: images/anand.jpg
+image: images/anand.webp
 role: phd
 group: current
 links:

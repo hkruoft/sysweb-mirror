@@ -1,6 +1,6 @@
 ---
 name: Gavin Guan
-image: images/gavin.jpg
+image: images/gavin.webp
 role: phd
 group: current
 links:

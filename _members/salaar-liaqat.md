@@ -1,6 +1,6 @@
 ---
 name: Salaar Liaqat
-image: images/salaar.jpg
+image: images/salaar.webp
 role: phd
 group: current
 links:

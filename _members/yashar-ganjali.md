@@ -1,6 +1,6 @@
 ---
 name: Yashar Ganjali
-image: images/yashar.png
+image: images/yashar.webp
 role: faculty
 links:
   home-page: https://www.cs.toronto.edu/~yganjali/

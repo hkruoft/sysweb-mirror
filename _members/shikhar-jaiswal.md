@@ -1,6 +1,6 @@
 ---
 name: Shikhar Jaiwal
-image: images/shikhar-jaiswal.png
+image: images/shikhar-jaiswal.webp
 role: phd
 group: current
 links:

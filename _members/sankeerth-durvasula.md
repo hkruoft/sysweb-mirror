@@ -1,6 +1,6 @@
 ---
 name: Sankeerth Durvasula
-image: images/sankeerth.jpg
+image: images/sankeerth.webp
 role: phd
 group: current
 links:

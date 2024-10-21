@@ -1,6 +1,6 @@
 ---
 name: Ruofan Liang
-image: images/ruofan.jpg
+image: images/ruofan.webp
 role: phd
 group: current
 links:

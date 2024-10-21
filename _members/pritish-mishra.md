@@ -1,6 +1,6 @@
 ---
 name: Pritish Mishra
-image: images/pritish.png
+image: images/pritish.webp
 role: phd
 group: current
 links:

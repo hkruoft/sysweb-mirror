@@ -1,6 +1,6 @@
 ---
 name: Zechen Ma
-image: images/zechen.jpg
+image: images/zechen.webp
 role: phd
 group: current
 links:

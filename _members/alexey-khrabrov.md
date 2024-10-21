@@ -1,6 +1,6 @@
 ---
 name: Alexey Khrabrov
-image: images/alexey.jpg
+image: images/alexey.webp
 role: alum-phd
 group: alum
 links:

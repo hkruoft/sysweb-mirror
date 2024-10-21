@@ -1,6 +1,6 @@
 ---
 name: Jiasheng Hu
-image: images/jiasheng.jpg
+image: images/jiasheng.webp
 role: phd
 group: current
 links:

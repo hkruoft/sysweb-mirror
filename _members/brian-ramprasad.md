@@ -1,6 +1,6 @@
 ---
 name: Brian Ramprasad
-image: images/brianr.jpg
+image: images/brianr.webp
 role: phd
 group: current
 links:

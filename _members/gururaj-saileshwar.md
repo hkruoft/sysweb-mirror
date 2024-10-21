@@ -1,6 +1,6 @@
 ---
 name: Gururaj Saileshwar
-image: images/gururaj.png
+image: images/gururaj.webp
 role: faculty
 aliases:
   - Gururaj Saileshwar

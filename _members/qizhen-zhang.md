@@ -1,6 +1,6 @@
 ---
 name: Qizhen Zhang
-image: images/qizhen.jpg
+image: images/qizhen.webp
 role: faculty
 links:
   home-page: https://qizhenzhang.me/

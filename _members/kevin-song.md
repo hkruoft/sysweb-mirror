@@ -1,6 +1,6 @@
 ---
 name: Kevin Song
-image: images/kevin.jpg
+image: images/kevin.webp
 role: phd
 group: current
 links:

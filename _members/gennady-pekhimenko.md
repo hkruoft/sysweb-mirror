@@ -1,6 +1,6 @@
 ---
 name: Gennady Pekhimenko
-image: images/gennady.png
+image: images/gennady.webp
 role: faculty
 links:
   home-page: https://www.cs.toronto.edu/~pekhimenko/

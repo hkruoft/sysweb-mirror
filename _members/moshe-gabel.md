@@ -1,6 +1,6 @@
 ---
 name: Moshe Gabel
-image: images/moshe.png
+image: images/moshe.webp
 caption: Research Associate
 role: research-associate
 links:

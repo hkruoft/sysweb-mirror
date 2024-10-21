@@ -1,6 +1,6 @@
 ---
 name: Filip Grigorov
-image: images/filip.jpg
+image: images/filip.webp
 role: masters
 group: current
 links:

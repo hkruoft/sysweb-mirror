@@ -1,6 +1,6 @@
 ---
 name: Sahar Sheikholeslami
-image: images/sahar.jpg
+image: images/sahar.webp
 role: alum-masters
 group: alum
 links:

@@ -1,6 +1,6 @@
 ---
 name: Angela Demke Brown
-image: images/demke.jpg
+image: images/demke.webp
 role: faculty
 office: BA 5228
 links:

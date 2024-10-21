@@ -1,6 +1,6 @@
 ---
 name: Christina Giannoula
-image: images/christinag.jpg
+image: images/christinag.webp
 role: postdoc
 group: current
 links:
