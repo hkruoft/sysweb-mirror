@@ -343,7 +343,7 @@
   - Navid Eslami
   - Niv Dayan
   publisher: arXiv
-  date: '2024-08-14'
+  date: '2024-10-29'
   link: https://arxiv.org/abs/2408.05625
   plugin: sources.py
   file: sources.yaml
@@ -378,7 +378,7 @@
   - Ioana-Oriana Bercea
   - Rasmus Pagh
   publisher: arXiv
-  date: '2024-08-22'
+  date: '2024-11-01'
   link: https://arxiv.org/abs/2404.04703
   plugin: sources.py
   file: sources.yaml
