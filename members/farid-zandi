@@ -1269,7 +1269,6 @@
   
 <div class="portrait-wrapper">
   
-    {# Non-faculty with a URL → external link #}
     <a href="/sysnet/members/farid-zandi" class="portrait" data-style="" aria-label="Farid Zandi">
   
 
@@ -1327,6 +1326,7 @@
 
 
 
+<!--
 
 
 <p class="center">
@@ -1337,7 +1337,6 @@
 
 
 
-<!--
 <p class="center">
   <a href="/sysnet/blog/?search=Farid%20Zandi">
     See Farid Zandi's posts on the Blog page
