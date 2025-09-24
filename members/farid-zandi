@@ -1268,29 +1268,34 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Farid Zandi">
-    
+  
+    {# Non-faculty with a URL → external link #}
+    <a href="/sysnet/members/farid-zandi" class="portrait" data-style="" aria-label="Farid Zandi">
+  
+
       
-    
+        
+      
 
-    <img src="/sysnet/images/faridzandi.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/sysnet/images/fallback.svg'; this.onerror = null;" />
+      <img src="/sysnet/images/faridzandi.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/sysnet/images/fallback.svg'; this.onerror = null;" />
 
-    
-      <span class="portrait-name">
-        Farid Zandi
-      </span>
-    
+      
+        <span class="portrait-name">
+          Farid Zandi
+        </span>
+      
 
-    
-    
-      <span class="portrait-description">
-        PhD Student
-      </span>
-    
+      
+        <span class="portrait-description">
+          PhD Student
+        </span>
+      
 
-    
+      
 
-  </a>
+  
+    </a>
+  
 </div>
 
 <div>
