@@ -1,3 +1,18 @@
+- title: U of T team discovers vulnerability at hardware-software boundary in cloud systems
+  image: images/ri_202508.webp
+  tages: news,faculty
+  date: 2025-08-12
+  link: https://web.cs.toronto.edu/news-events/news/university-of-toronto-team-discovers-vulnerability-at-hardware-software-boundary-in-cloud-systems
+  description: 
+
+- title: U of T researchers find GPU vulnerability with ‘catastrophic’ effects on AI model accuracy
+  image: images/gpuhammer.webp
+  tags: news,faculty
+  date: 2025-07-29
+  link: https://web.cs.toronto.edu/news-events/news/u-of-t-researchers-find-gpu-vulnerability-with-catastrophic-effects-on-ai-model-accuracy
+  description: Gururaj Saileshwar and his team, PhD student Chris (Shaopeng) Lin and undergrad Joyce Qu developed GPUHammer to investigate the vulnerability of GPUs to a critical hardware attack.
+
+
 - title: Eyal de Lara appointed Chair and Graduate Chair of Department of Computer Science
   image: images/eyal.jpg
   tags: news,faculty
@@ -62,7 +77,15 @@
   tags: news, faculty
   date: 2024-09-04
   link: https://web.cs.toronto.edu/news-events/news/new-faculty-spotlight-anwar-hithnawi
-  description: "Prof. Anwar Hithnawi will join the Department of Computer Science & the Systems & Networks Group (SysNet) as assistant professor in January 2025."
+  description: "Anwar Hithnawi will join the Department of Computer Science & the Systems & Networks Group (SysNet) as assistant professor in January 2025."
+
+- title: "Anwar Hithnawi recognized by Google and Intel for research excellence"
+  image: images/anwar.webp
+  tags: news, faculty
+  date: 2025-09-15
+  link: https://web.cs.toronto.edu/news-events/news/anwar-hithnawi-recognized-by-google-and-intel-for-research-excellence
+  description: "Assistant Professor Anwar Hithnawi, who joined the Department of Computer Science in January, has received Google Research Scholar Program funding and a Intel Outstanding Researcher Award for her work in privacy-preserving cryptographic systems."
+
 
 - title: "Nandita Vijaykumar and Igor Gilitschenski win 2022 Sony Focused Research Award"
   image: https://images.squarespace-cdn.com/content/v1/5c8e9a223560c34f9070706f/3d63c212-2bf7-4bdc-864b-37b418ecce6f/nandita-igor_3_sm.jpg
