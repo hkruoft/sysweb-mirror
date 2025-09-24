@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3718958.3750524
+  title: 'SaTE: Low-Latency Traffic Engineering for Satellite Networks'
+  authors:
+  - Hao Wu
+  - Yizhan Han
+  - Mohit Rajpal
+  - Qizhen Zhang
+  - Jingxian Wang
+  publisher: Proceedings of the ACM SIGCOMM 2025 Conference
+  date: '2025-08-27'
+  link: https://doi.org/g94vnj
+  orcid: 0009-0009-4523-0735
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3603269.3604833
+  title: 'Cowbird: Freeing CPUs to Compute by Offloading the Disaggregation of Memory'
+  authors:
+  - Xinyi Chen
+  - Liangcheng Yu
+  - Vincent Liu
+  - Qizhen Zhang
+  publisher: Proceedings of the ACM SIGCOMM 2023 Conference
+  date: '2023-09-01'
+  link: https://doi.org/gtm3mg
+  orcid: 0009-0009-4523-0735
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3555041.3589403
+  title: Disaggregated Database Systems
+  authors:
+  - Jianguo Wang
+  - Qizhen Zhang
+  publisher: Companion of the 2023 International Conference on Management of Data
+  date: '2023-06-04'
+  link: https://doi.org/g83q93
+  orcid: 0009-0009-4523-0735
+  plugin: orcid.py
+  file: orcid.yaml
 - id: arXiv:2404.05470v1
   title: Towards Reconfigurable Linearizable Reads
   authors:
