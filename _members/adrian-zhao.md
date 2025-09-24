@@ -1,10 +1,9 @@
 ---
-name: Adrian Zhao
-image: images/adrian.webp
-role: phd
+name: Felix Zhang
+image: images/felixzhang.jpeg
+role: masters
 group: current
 links:
-  github: https://github.com/Accelsnow
-  linkedin: https://www.linkedin.com/in/junan-zhao-adrian/
-  google_scholar: https://scholar.google.com/citations?user=W-mbfO0AAAAJ
+  github: https://github.com/ff-zhang
+  linkedin: https://www.linkedin.com/in/felixfzhang/
 ---
