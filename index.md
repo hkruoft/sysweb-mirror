@@ -62,7 +62,7 @@ Our team is made up of faculty, postdoctoral researchers, graduate students, res
 {%
   include feature.html
   image="images/bahen3.jpg"
-  link="team"
+  link="people"
   title="Our Team"
   text=text
 %}

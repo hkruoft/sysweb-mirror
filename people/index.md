@@ -70,14 +70,15 @@ nav:
 {% include section.html %}
 # Recent Alumni
 
-{% include portrait.html name="Akshay Arun Bapat" role="phd" image="images/akshay-bapat.webp" content=" " %}
+{% include portrait.html name="Akshay Arun Bapat" role="alumphd" image="images/akshay-bapat.webp" content=" " %}
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" content=" " %}
 {% include portrait.html name="Brian Fu" role="alum-phd" image="images/brianfu.webp" content=" " %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" content="" %}
+<!--
 {% include list.html data="members" component="portrait" filters="role: alum-phd" %}
 {% include list.html data="members" component="portrait" filters="role: alum-masters" %}
 {% include section.html background="images/background.jpg" dark=true %}
-
+-->
 
 
 {% include section.html %}
