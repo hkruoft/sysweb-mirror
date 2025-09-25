@@ -1,6 +1,6 @@
 ---
 name: Nick Koudas
-image: images/koudas.png
+image: images/koudas.webp
 role: faculty
 aliases:
 links:
