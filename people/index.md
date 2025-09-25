@@ -73,6 +73,7 @@ nav:
 {% include portrait.html name="Akshay Arun Bapat" role="alum-phd" image="images/akshay-bapat.webp" content=" " %}
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" content=" " %}
 {% include portrait.html name="Brian Fu" role="alum-phd" image="images/brianfu.webp" content=" " %}
+{% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" content=" " %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" content="" %}
 
 {% comment %}
