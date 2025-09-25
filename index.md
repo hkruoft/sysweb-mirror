@@ -20,30 +20,6 @@ As an energetic research group, we have regular group meetings to discuss our cu
 ​
 
 ## Highlights
-
-{% capture text %}
-
-A great way to learn about our work is to see what we've published. Browse or search our full list of publications here.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/servers.jpg"
-  link="team"
-  title="Our Research"
-  text=text
-%}
-
 {% capture text %}
 
 Our team is made up of faculty, postdoctoral researchers, graduate students, research assistants and staff.
@@ -66,3 +42,28 @@ Our team is made up of faculty, postdoctoral researchers, graduate students, res
   title="Our Team"
   text=text
 %}
+
+{% capture text %}
+
+A great way to learn about our work is to see how it’s making an impact. Browse or search our latest news and announcements.”
+
+{%
+  include button.html
+  link="news"
+  text="See our news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/servers.jpg"
+  link="team"
+  title="Our News"
+  text=text
+%}
+
+
