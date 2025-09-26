@@ -26,7 +26,7 @@ Our team is made up of faculty, postdoctoral researchers, graduate students, res
 
 {%
   include button.html
-  link="team"
+  link="people"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
