@@ -9,7 +9,7 @@ The **<u>Sys</u>**tems & **<u>Net</u>**works Group (**SysNet**) is part of the <
 
 The systems side works on a range of experimental projects on Internet systems and services. Our interests span Web-based and peer-to-peer systems design, network measurement and traffic analysis, fault-tolerant Internet systems, wireless networking, and network security. Our mission is to investigate high-impact research avenues that will shape the next generation Internet systems and services.
 
- 
+
 
 The networks side engages in both theoretical and experimental research: while we use modeling and analytical techniques to study fundamental problems in computer networks, we also conduct experimental studies and build real systems. Our research covers a broad range of topics including online social networks, wireless networks, peer-to-peer networks, sizing buffers in Internet routers and content delivery networks.
 
