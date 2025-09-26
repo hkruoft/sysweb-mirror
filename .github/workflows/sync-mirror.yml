@@ -1,34 +1,23 @@
-# @format
-
-name: Sync Repos
+name: Mirror to sysweb-site
 
 on:
   push:
-    branches:
-      - main
-  # You can add more triggers, such as scheduled events
-  # schedule:
-  #   - cron: '0 0 * * *'
+    branches: [main]
 
 jobs:
-  sync:
+  mirror:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout source repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Push to destination repository
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.8.1
+        with:
+          ssh-private-key: ${{ secrets.MIRROR_SSH_KEY }}
+
+      - name: Push to mirror
         run: |
-          git config --global user.email "harsh.roghelia@utoronto.ca"
-          git config --global user.name "hkruoft"
-          git clone https://${{ env.ORG_NAME }}:${{ secrets.PAT }}@github.com/${{ env.ORG_NAME }}/sysweb-mirror.git
-          cd destination-repo
-          git remote add ${{ env.ORIGINAL_REPO_NAME }} https://${{ env.ORG_NAME }}:${{ secrets.PAT }}@github.com/${{ env.ORG_NAME }}/${{ env.ORIGINAL_REPO_NAME }}.git
-          git remote update
-          git merge ${{ env.ORIGINAL_REPO_NAME }}/main
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-          ORIGINAL_REPO_NAME: ${{ github.event.repository.name }}
-          ORG_NAME: Your workspace name
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add mirror git@github.com:hkruoft/sysweb-mirror.git
+          git push mirror HEAD:main --force
