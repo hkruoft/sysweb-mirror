@@ -31,17 +31,20 @@ nav:
 {% include portrait.html name="Adrian Zhao" role="phd" image="images/adrian.webp" content="" %}
 {% include portrait.html name="Alireza Shateri" role="phd" image="images/alireza.webp" content="" %}
 {% include portrait.html name="Anand Jayarajan" role="phd" image="images/anand.webp" content="" %}
+{% include portrait.html name="Anthony DiMaggio" role="phd" image="images/anthony_dimaggio.jpeg" content="" %}
 {% include portrait.html name="Andreas Burger" role="phd" image="images/andreas.webp" content="" %}
+{% include portrait.html name="Ashwin Kartikeyan" role="phd" content="" %}
 {% include portrait.html name="Brian Ramprasad" role="phd" image="images/brianr.webp" content=" " %}
-{% include portrait.html name="Egil Karlsen" role="phd" image="images/egil.webp" content="" %}
+{% include portrait.html name="Di Wu" role="phd" content=" " %}
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" content="" %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" content=" " %}
 {% include portrait.html name="Jason (Jiasheng) Hu" role="phd" image="images/jiasheng.webp" content="" %}
 {% include portrait.html name="Kai Shen" role="phd" image="images/kai.jpg" content=" " %}
 {% include portrait.html name="Kevin Song" role="phd" image="images/kevin.webp" content="" %}
 {% include portrait.html name="Mohammadreza Mofayezi" role="phd" image="images/mohammadreza.webp" content="" %}
-{% include portrait.html name="Myles Thiessen" role="phd" image="images/myles.webp" content=" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. " %}
+{% include portrait.html name="Myles Thiessen" role="phd" image="images/myles.webp" content="" %}
 {% include portrait.html name="Navid Eslami" role="phd" image="images/navid.webp" content=" " %}
+{% include portrait.html name="Nikolay Avramov" role="phd" image="images/nikolay_a.jpeg" content=" " %}
 {% include portrait.html name="Pawan Kumar Sanjaya" role="phd" image="images/pawan.webp" content="" %}
 {% include portrait.html name="Pritish Mishra" role="phd" image="images/pritish.webp" content=" " %}
 {% include portrait.html name="Renbo Tu" role="phd" image="images/renbo-30p.webp" content="" %}
@@ -52,12 +55,15 @@ nav:
 {% include portrait.html name="Sejal Bhalla" role="phd" image="images/sejal.webp" content="" %}
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" content="" %}
 {% include portrait.html name="Shikhar Jaiwal" role="phd" image="images/shikhar-jaiswal.webp" content="" %}
+{% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" content="" %}
 {% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp" content="" %}
 {% include portrait.html name="Zechen Ma" role="phd" image="images/zechen.webp" content="" %}
+{% include portrait.html name="Zhijie Wu" role="phd" image="images/zhijie_w.jpg" content="" %}
 
 
 {% include section.html %}
 
+{% include portrait.html name="Amogh Joshi" role="masters" image="images/amogh.jpeg" content="" %}
 {% include portrait.html name="Christian Tabbah" role="masters" image="images/christian.webp" content="" %}
 {% include portrait.html name="Felix Zhang" role="masters" image="images/felixzhang.jpeg" content="" %}
 {% include portrait.html name="Filip Grigorov" role="masters" image="images/filip.webp" content="" %}
@@ -70,10 +76,10 @@ nav:
 {% include section.html %}
 # Recent Alumni
 
-{% include portrait.html name="Akshay Arun Bapat" role="alum-phd" image="images/akshay-bapat.webp" content=" " %}
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" content=" " %}
-{% include portrait.html name="Brian Fu" role="alum-phd" image="images/brianfu.webp" content=" " %}
 {% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" content=" " %}
+{% include portrait.html name="Akshay Arun Bapat" role="alum-masters" image="images/akshay-bapat.webp" content=" " %}
+{% include portrait.html name="Brian Fu" role="alum-masters" image="images/brianfu.webp" content=" " %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" content="" %}
 
 {% comment %}
