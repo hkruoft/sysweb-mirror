@@ -33,9 +33,9 @@ nav:
 {% include portrait.html name="Anand Jayarajan" role="phd" image="images/anand.webp" content="" %}
 {% include portrait.html name="Anthony DiMaggio" role="phd" image="images/anthony_dimaggio.jpeg" content="" %}
 {% include portrait.html name="Andreas Burger" role="phd" image="images/andreas.webp" content="" %}
-{% include portrait.html name="Ashwin Kartikeyan" role="phd" content="" %}
+{% include portrait.html name="Ashwin Kartikeyan" image="images/ashwin_k.jpeg" role="phd" content="" %}
 {% include portrait.html name="Brian Ramprasad" role="phd" image="images/brianr.webp" content=" " %}
-{% include portrait.html name="Di Wu" role="phd" content=" " %}
+{% include portrait.html name="Di Wu" image="images/di_wu.webp" role="phd" content=" " %}
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" content="" %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" content=" " %}
 {% include portrait.html name="Jason (Jiasheng) Hu" role="phd" image="images/jiasheng.webp" content="" %}
