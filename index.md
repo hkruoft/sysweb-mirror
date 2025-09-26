@@ -61,7 +61,7 @@ A great way to learn about our work is to see how it’s making an impact. Brows
 {%
   include feature.html
   image="images/servers.jpg"
-  link="team"
+  link="news"
   title="Our News"
   text=text
 %}
