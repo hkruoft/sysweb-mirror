@@ -2,7 +2,6 @@
 title: People
 nav:
   order: 1
-  tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-people-group" %}
