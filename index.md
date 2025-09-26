@@ -5,7 +5,7 @@ nav:
 ---
 The **<u>Sys</u>**tems & **<u>Net</u>**works Group (**SysNet**) is part of the <a href="https://www.cs.toronto.edu/">Department of Computer Science</a>  at the <a href="https://utoronto.ca/">University of Toronto</a>. We work on projects that cover a diverse range of experimental and theoretical research, including operating systems, network security, mobile code architectures, high-performance computing and wireless networking.
 
- 
+
 
 The systems side works on a range of experimental projects on Internet systems and services. Our interests span Web-based and peer-to-peer systems design, network measurement and traffic analysis, fault-tolerant Internet systems, wireless networking, and network security. Our mission is to investigate high-impact research avenues that will shape the next generation Internet systems and services.
 
